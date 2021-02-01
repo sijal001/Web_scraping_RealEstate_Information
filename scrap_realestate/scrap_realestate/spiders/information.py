@@ -1,13 +1,37 @@
 # -*- coding: utf-8 -*-
+"""
+This program is scrapying the data from the website: https://immo.vlan.be/en
+Four main url link has been used to make the scraping data easier.
+
+Certain changes has been done in the setting.py file 
+1. DOWNLOAD_DELAY = 5               ----- This help delay the program by 5 seconds.
+2. FEED_EXPORT_ENCODING = 'utf-8'   ----- This help scraped data be in UTF-O standard encording this makes scraped data clean and easy to understand.
+3. HTTPCACHE_ENABLED = True         ----- This will not hit the server for requests already done tests will run much faster and the website will save resources.
+"""
+
 import scrapy
 from time import sleep
 
 class InformationSpider(scrapy.Spider):
+    """
+    This is the initial phase of the program. URL link to work with are stated here. 
+    This is generated automatically when runing Scrapy command at the very beginning.
+    Example base on this senario:
+    
+    scrapy startproject sceap_realestate
+    scrapy genspider information immo.vlan.be
+    """
+
     name = 'information'
-    allowed_domains = ['immo.vlan.be']
+    allowed_domains = ['immo.vlan.be']  # In most cases an extra '/' is add at the very end. We need to remove that extra '/'.
     
     # change the request_header to be oon safe side from robot.txt
     def start_requests(self):
+        """
+        This is the method where we state what are the links that program needs to follow at very beginning.
+        Four main url link has been used to make the scraping data easier and collect some data that make sense at very beginning.
+        """
+
         sale_house = "https://immo.vlan.be/en/real-estate/house/for-sale?propertysubtypes=residence,villa,mixed-building,master-house,cottage,bungalow,chalet,mansion&countries=belgium&noindex=1"
         rent_house = "https://immo.vlan.be/en/real-estate/house/for-rent?propertysubtypes=residence,villa,mixed-building,master-house,cottage,bungalow,chalet,mansion&countries=belgium&noindex=1"
         sale_apartment = "https://immo.vlan.be/en/real-estate/flat/for-sale?propertysubtypes=flat---apartment,ground-floor,penthouse,duplex,flat---studio,loft,triplex&countries=belgium&noindex=1"
@@ -15,6 +39,7 @@ class InformationSpider(scrapy.Spider):
 
         url_lst = [sale_house, rent_house, sale_apartment, rent_apartment]
         
+        # Working with the for loop and statically filling the required data before hand
         for link in url_lst:
             if link == sale_house:
                 type_of_property = "house"
@@ -30,11 +55,7 @@ class InformationSpider(scrapy.Spider):
                 type_of_sale = "rent"
             yield scrapy.Request(url=link, callback=self.parse, meta={'property_type': type_of_property, 'sale_type': type_of_sale},
             headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36"})
-        """
-        yield scrapy.Request(url=sale_house, callback=self.parse, meta={'property_type': "house", 'sale_type': "sale"},
-        headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36"})
-        """
-
+      
     def parse(self, response):
         type_of_property = response.request.meta["property_type"]
         type_of_sale = response.request.meta["sale_type"]
@@ -45,129 +66,105 @@ class InformationSpider(scrapy.Spider):
             link = path.xpath(".//@href").get()
             yield response.follow(url=link, callback=self.parse_collect,  meta={'property_subtype': property_subtype, 'property_type': type_of_property, 'sale_type': type_of_sale}, 
             headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36"})
-            sleep(10)
 
         for i in range(2,21):
             path = f"//div[@class='pager']//ul/li[{i}]/a/@href"
             next_page = response.xpath(path).get()
             yield scrapy.Request(url=next_page, callback=self.parse, meta={'property_type': type_of_property, 'sale_type': type_of_sale},
             headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36"})
-                        
+
     def parse_collect(self, response):
         address = response.xpath("//span[@class='address-line  ico btn-address pl-4']/text()").get()
         post_code = response.xpath("//span[@class='city-line pl-4']/text()[1]").get()
         city = response.xpath("//span[@class='city-line pl-4']/text()[2]").get()
+
         type_of_property = response.request.meta["property_type"]
         property_subtype_info = response.request.meta["property_subtype"]
         type_of_sale = response.request.meta["sale_type"]
         bed_rooms = response.xpath("//div[@class='fs-4'][1]/text()").get()
         living_surface = response.xpath("//div[@title='Livable Surface']//div[3]/text()").get()
         
-        # Price 
-        price = response.xpath("//span[@class='price']/text()").get()
+        # Information regarding property price 
+        price = str(response.xpath("//span[@class='price']/text()").get())
         try:
             price = price[2:]
         except:
             price = price
 
-        # Kitchen data information
-        try: 
-            kitchen_equipment_info = response.xpath("//div[@id='collapse_kitchenbath_details']//div[1]//div[1]/text()").get()
-            if kitchen_equipment_info == 'Kitchen equipment':
-                kitchen_equipment = response.xpath("//div[@id='collapse_kitchenbath_details']//div[1]//div[2]/text()").get()
-            else:
-                kitchen_equipment = "No"
-            
-            if kitchen_equipment != "No":
-                kitchen_equipment = "Yes"
-        except:
-            kitchen_equipment = "No"
-
-        # Furnished data inforamtion 
-        try:
-            furnished_info = response.xpath("//div[@id='collapse_indoor_details']//div[3]//div[1]/text()").get()
-            if furnished_info == 'Furnished':
-                furnished = response.xpath("//div[@id='collapse_indoor_details']//div[3]//div[2]/text()").get()
-            else:
-                furnished = "No"
-            
-            if furnished != "No":
-                furnished = "Yes"
-        except:
-            furnished = "No"
-
-        # Terrace data inforamtion 
-        try:
-            terrace_info = response.xpath("//div[@id='collapse_outdoor_details']//div[6]//div[1]/text()").get()
-            if terrace_info == 'Terrace':
-                terrace = response.xpath("//div[@id='collapse_outdoor_details']//div[6]//div[2]/text()").get()
-            else:
-                terrace = "No"
-                terrace_size = "0"
-            
-            if terrace != "No":
-                terrace = "Yes"
-                terrace_size = response.xpath("//div[@id='collapse_outdoor_details']//div[7]//div[2]/text()").get()
-        except:
-            terrace = "No"
-            terrace_size = "0"
-
-        # Garden data inforamtion 
-        try:
-            garden_info = response.xpath("//div[@title='Garden']//div[2]/text()").get()
-            if garden_info == 'Garden':
-                garden = "Yes"
-            else:
-                garden = "No"
-                garden_size = "0"
-
-            if garden != "No":
-                garden = "Yes"
-                garden_size = response.xpath("//div[@title='Garden']//div[3]/text()").get()
-        except:
-            garden = "No"
-            garden_size = "0"
         
-        # Number of facades data inforamtion 
-        try:
-            no_facades_info = response.xpath("//div[@id='collapse_outdoor_details']//div[2]//div[1]/text()").get()
-            if no_facades_info == 'Number of facades':
-                no_facades = response.xpath("normalize-space(//div[@id='collapse_outdoor_details']//div[2]//div[2]/text())").get()
-            else:
-                no_facades = "0"
-   
-        except:
-            no_facades = "0"
+        def filter_search_info(collapse, search):
+            """
+            Function to filter the scraping data. search specific word and filter regarding the search.
+            """
+            try:
+                left = []
+                right = []
+                for num in [6,8]:
+                    try:
+                        title_info = response.xpath("//div[@id='{}']/div/div[@class='col-{}']/text()".format(collapse, num)).getall()
+                        num_2 = 6 if num ==6 else 4
+                        title_data = response.xpath("//div[@id='{}']/div/div[@class='col-{} text-right']/text()".format(collapse, num_2)).getall()
+                        data_gathered = None
 
-        # Swiming Pool data inforamtion 
-        try:
-            swiming_pool_info = response.xpath("//div[@class='row section collapsable-section']//div[11]//div[1]/text()").get()
-            if swiming_pool_info == 'Swimming pool':
-                swiming_pool = response.xpath("//div[@id='collapse_indoor_details']//div[3]//div[2]/text()").get()
-            else:
-                swiming_pool = "No"
+                        for i in title_info:
+                            left.append(i.strip())
+
+                        for i in title_data:
+                            right.append(i.strip())
+                        
+                    except:
+                        pass    
+            except:
+                data_gathered = None
             
-            if swiming_pool != "No":
-                swiming_pool = "Yes"
-        except:   
-            swiming_pool = "No"
+            for info_match, data_match in zip(left,right):
+                if info_match == search:
+                    data_gathered = data_match
+            
+            return data_gathered
+        
+        def yes_no(result):
+            """
+            Generate the Yes/No information. After scraping the data.
+            """
+            if result == None or result == "No":
+                info = "No"
+            else:
+                info = "Yes"
+            
+            return info
+    
+        # Information regarding Number of facades
+        kitchen_equipment = filter_search_info('collapse_kitchenbath_details', "Kitchen equipment")
+        kitchen_equipment = yes_no(kitchen_equipment)
 
+        # Furnished details 
+        furnished = filter_search_info('collapse_indoor_details', "Furnished")
+        furnished = yes_no(furnished)
+
+        # Terrace data inforamtion
+        terrace = filter_search_info('collapse_outdoor_details', "Terrace")
+        terrace = yes_no(terrace)
+
+        # Terrace Size
+        terrace_size = filter_search_info('collapse_outdoor_details', "Surface terrace")    
+
+        # Garden data inforamtion
+        garden = filter_search_info('collapse_outdoor_details', "Garden")
+        garden = yes_no(garden)
+
+        # Garden Size
+        garden_size = filter_search_info('collapse_outdoor_details', "Surface garden")
+
+        # Information regarding Number of facades
+        facades = filter_search_info('collapse_outdoor_details', "Number of facades")
+
+        # Information regarding the swimming pool
+        swimming_pool = filter_search_info('collapse_outdoor_details', "Swimming pool")
+        swimming_pool = yes_no(swimming_pool)
         
-        # code to calculate the property state
-        # House New or old
-        search_for_year = response.xpath("normalize-space(//div[@id='collapse_general_info']/div/div[@class='col-6']/text())")
-        search_for_year_date = response.xpath("normalize-space(//div[@id='collapse_general_info']/div/div[@class='col-6 text-right']/text())")
-        build_year = None
-        try:
-            for find_match, year_match in zip(search_for_year,search_for_year_date):
-                if find_match.get() == "Build Year":
-                    build_year = year_match.get()
-                    
-        except:
-            # building_state = None
-            build_year = None
-             
-        
+        # Information regarding the build year
+        build_year = filter_search_info('collapse_general_info', "Build Year")
 
         yield {
             "Address": address,
@@ -185,7 +182,7 @@ class InformationSpider(scrapy.Spider):
             "Terrace Area": terrace_size,
             "Garden": garden,
             "Garden Area":garden_size,
-            "Number of facades": no_facades,
-            "Swimming pool": swiming_pool,
+            "Number of facades": facades,
+            "Swimming pool": swimming_pool,
             "State of the building": build_year 
         }
