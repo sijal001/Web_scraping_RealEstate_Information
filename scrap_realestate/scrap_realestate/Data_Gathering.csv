@@ -1,0 +1,675 @@
+Address,Post Code,City,Type of property,Property Subtype,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Terrace,Terrace Area,Garden,Garden Area,Number of facades,Swimming pool,State of the building
+ Gentsesteenweg 58  ,8530,Harelbeke,house,Residence,185.000,sale,2,133 m²,No,No,No,,No,,,No,
+ Kardinaal Cardijnstraat 10  ,2840,Rumst,house,Mixed,539.000,sale,5,185 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+ Schaperijstraat 51  ,9900,Eeklo,house,Residence,115.000,sale,2,115 m²,Yes,No,No,,Yes,Yes,,No,Immediately
+,6040,Jumet,house,Villa,330.000,sale,3,,No,Yes,Yes,,No,,Yes,Yes,
+ Rue des Bouillons 81  ,6060,Gilly,house,Residence,259.000,sale,3,135 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Rue de Hollogne 141  ,4101,Jemeppe,house,Residence,120.000,sale,4,147 m²,No,No,Yes,,No,,Yes,No,
+ J. en M. Sabbestraat 131  ,8930,Menen,house,Residence,242.000,sale,5,216 m²,No,No,No,,No,,No,No,On contract
+ Bremstraat 37  ,2340,Beerse,house,Residence,250.000,sale,3,119 m²,No,No,Yes,,No,,Yes,No,No
+ Bulskampstraat 66  ,8630,Veurne,house,Residence,229.000,sale,4,166 m²,No,No,Yes,,Yes,,,No,
+ Rapaertstraat   ,8020,Hertsberge,house,Residence,378.500,sale,5,210 m²,Yes,No,No,,Yes,,,No,2021
+,1420,Braine-l'Alleud,house,Villa,2.850.000,sale,6,900 m²,Yes,No,No,,No,,No,No,1993
+ Sint-Andrieshof 46  ,8970,Poperinge,house,Villa,695.000,sale,6,329 m²,No,No,No,,No,,,No,2006
+,5100,Jambes,house,Residence,219.000,sale,2,90 m²,Yes,Yes,Yes,Yes,No,,,No,On contract
+ Roeselaarsestraat 47  ,8501,Heule,house,Residence,179.000,sale,2,106 m²,No,No,No,,No,,,No,
+ Hoogplaatsstraat 49  ,8510,Kooigem,house,Residence,330.000,sale,3,,No,No,No,,No,,,No,2013
+,4920,Aywaille,apartment,Flat,265.000,sale,3,127 m²,No,No,Yes,Yes,No,,Yes,No,No
+ Vredelaan 153  ,1982,Weerde,house,Residence,339.000,sale,3,179 m²,Yes,Yes,Yes,,No,,Yes,No,No
+ Boeschepestraat 116  ,8970,Poperinge,house,Residence,216.500,sale,3,180 m²,Yes,No,No,,No,,No,No,On contract
+ Rue de Gozee 94  ,6110,Montigny-le-Tilleul,house,Master,280.000,sale,6,280 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ D?sir? Fi?v?straat 41  ,9000,Gent,house,Residence,395.000,sale,4,161 m²,Yes,No,No,,No,,,No,
+ Spanjestraat 216  ,8800,Roeselare,house,Residence,219.000,sale,3,147 m²,Yes,No,No,,No,,No,No,
+ Drie Veldenweg 64  ,9300,Aalst,house,Residence,215.000,sale,3,140 m²,Yes,No,Yes,Yes,No,,Yes,No,On contract
+ Hugo Verrieststraat 25  ,2850,Boom,house,Residence,155.000,sale,2,90 m²,No,No,Yes,,No,,Yes,No,No
+ Moulin 22  ,6150,Anderlues,house,Villa,120.000,sale,4,180 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+,7110,Maurage,house,Residence,163.000,sale,2,100 m²,No,No,Yes,Yes,No,,Yes,No,
+,7134,Leval-Trahegnies,house,Residence,30.000,sale,5,172 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1899
+Address,Post Code,City,Type of property,Property Subtype,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Terrace,Terrace Area,Garden,Garden Area,Number of facades,Swimming pool,State of the building
+ Gentsesteenweg 58  ,8530,Harelbeke,house,Residence,185.000,sale,2,133 m²,No,No,No,,No,,,No,
+ Rue de Hollogne 141  ,4101,Jemeppe,house,Residence,120.000,sale,4,147 m²,No,No,Yes,,No,,Yes,No,
+ Bremstraat 37  ,2340,Beerse,house,Residence,250.000,sale,3,119 m²,No,No,Yes,,No,,Yes,No,No
+ J. en M. Sabbestraat 131  ,8930,Menen,house,Residence,242.000,sale,5,216 m²,No,No,No,,No,,No,No,On contract
+ Kardinaal Cardijnstraat 10  ,2840,Rumst,house,Mixed,539.000,sale,5,185 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+,6040,Jumet,house,Villa,330.000,sale,3,,No,Yes,Yes,,No,,Yes,Yes,
+ Rue des Bouillons 81  ,6060,Gilly,house,Residence,259.000,sale,3,135 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Schaperijstraat 51  ,9900,Eeklo,house,Residence,115.000,sale,2,115 m²,Yes,No,No,,Yes,Yes,,No,Immediately
+ Roeselaarsestraat 47  ,8501,Heule,house,Residence,179.000,sale,2,106 m²,No,No,No,,No,,,No,
+ Rapaertstraat   ,8020,Hertsberge,house,Residence,378.500,sale,5,210 m²,Yes,No,No,,Yes,,,No,2021
+ Bulskampstraat 66  ,8630,Veurne,house,Residence,229.000,sale,4,166 m²,No,No,Yes,,Yes,,,No,
+,1420,Braine-l'Alleud,house,Villa,2.850.000,sale,6,900 m²,Yes,No,No,,No,,No,No,1993
+ Sint-Andrieshof 46  ,8970,Poperinge,house,Villa,695.000,sale,6,329 m²,No,No,No,,No,,,No,2006
+,5100,Jambes,house,Residence,219.000,sale,2,90 m²,Yes,Yes,Yes,Yes,No,,,No,On contract
+ Hoogplaatsstraat 49  ,8510,Kooigem,house,Residence,330.000,sale,3,,No,No,No,,No,,,No,2013
+ Albert I laan 68 102 ,8620,Nieuwpoort,apartment,Flat,490.000,sale,2,97 m²,No,No,Yes,Yes,No,,Yes,No,2019
+ Veldstraat 22  ,8020,Oostkamp,house,Residence,950,rent,4,,Yes,No,No,,No,,No,No,From 01/04/2021
+,1000,Brussels,apartment,Flat,640,rent,30 m²,30 m²,No,No,Yes,,No,,Yes,No,
+,6042,Lodelinsart,apartment,Flat,580,rent,1,47 m²,No,No,Yes,,No,,,No,
+ Aalscholverstraat 65 01.02 ,8450,Bredene,apartment,Flat,850,rent,2,,Yes,Yes,No,No,No,,,No,Immediately
+ Parklaan 139 A1 ,9300,Aalst,apartment,Flat,800,rent,2,106 m²,No,No,No,,No,,,No,1969
+ Avenue Gustave Demey 43  ,1160,Oudergem,apartment,Flat,1.050,rent,2,100 m²,No,No,Yes,,No,,,No,
+,1150,Sint-Pieters-Woluwe,apartment,Flat,1.250,rent,2,60 m²,No,No,No,,No,,2,No,
+,5100,Jambes,apartment,Flat,680,rent,2,70 m²,Yes,No,No,,No,,,No,
+ Handelskaai 1b 23 ,8500,Kortrijk,apartment,Flat,525,rent,50 m²,50 m²,Yes,No,No,,No,,,No,1980
+,5100,Jambes,apartment,Flat,550,rent,1,55 m²,Yes,No,No,,No,,,No,
+ Parkstraat 70 101 ,8730,Beernem,apartment,Flat,675,rent,2,96 m²,No,No,No,,No,,Yes,No,2018
+ Boulevard Poincaré 71  ,1000,Brussels,apartment,Flat,645.000,sale,3,160 m²,No,No,Yes,Yes,No,,,No,
+ Boulevard Poincaré 71  ,1000,Brussels,apartment,Flat,365.000,sale,2,110 m²,No,No,No,,No,,Yes,No,
+ Boulevard Jacques Bertrand 42 091 ,6000,Charleroi,apartment,Flat,95.000,sale,2,91 m²,No,No,No,,No,,,No,
+ Goedendaglaan 5  ,8500,Kortrijk,apartment,Flat,695,rent,3,100 m²,Yes,Yes,No,,No,,2,No,
+ Rue de Bruxelles 30  ,5000,Namur,apartment,Flat,179.000,sale,1,77 m²,Yes,No,Yes,Yes,No,,Yes,No,1968
+ Prins Leopoldstraat 20  ,9700,Oudenaarde,apartment,Flat,199.000,sale,2,96 m²,No,No,No,,No,,,No,
+,1060,Sint-Gillis,apartment,Flat,950,rent,1,65 m²,Yes,No,No,No,No,,No,No,
+,1310,La Hulpe,apartment,Flat,2.350,rent,2,157 m²,No,No,Yes,Yes,No,,Yes,No,1918
+,1310,La Hulpe,apartment,Flat,1.750,rent,2,125 m²,No,No,Yes,Yes,No,,,No,1918
+,1310,La Hulpe,apartment,Flat,1.850,rent,2,143 m²,No,No,Yes,Yes,No,,Yes,No,
+,1310,La Hulpe,apartment,Flat,775,rent,1,52 m²,No,No,No,,No,,Yes,No,
+ Christine D'Haenstraat 6 0205 ,8000,Brugge,apartment,Flat,700,rent,2,,No,No,No,No,No,,,No,
+ Zultseweg 105 1.1 ,8790,Waregem,apartment,Flat,750,rent,3,,Yes,No,No,,No,,,No,
+,3060,Bertem,apartment,Duplex,795,rent,3,130 m²,No,No,No,,Yes,Yes,,No,
+ Rijksweg 362 2.02 ,8710,Wielsbeke,apartment,Flat,695,rent,3,133 m²,Yes,No,No,,No,,,No,2016
+,1060,Sint-Gillis,apartment,Flat,550,rent,1,30 m²,Yes,No,No,,No,,No,No,
+ Kruisenstraat 37 A ,9270,Kalken,apartment,Duplex,890,rent,2,110 m²,Yes,No,Yes,,No,,,No,Immediately
+,1180,Ukkel,apartment,Flat,1.120,rent,2,90 m²,Yes,Yes,Yes,Yes,No,,Yes,No,
+ Hallesesteenweg 70 - 74 210 ,1650,Beersel,apartment,Flat,890,rent,1,60 m²,Yes,No,Yes,Yes,No,,,No,No
+ Hallesesteenweg 70 - 74 210 ,1652,Alsemberg,apartment,Flat,890,rent,1,60 m²,Yes,No,Yes,Yes,No,,,No,No
+ Rue Kessels 14 30 ,1030,Schaarbeek,apartment,Flat,850,rent,1,67 m²,No,No,Yes,,No,,Yes,No,No
+,1410,Waterloo,apartment,Flat,995,rent,1,50 m²,Yes,No,Yes,,Yes,,,No,Immediately
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,249.500,sale,2,88 m²,No,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,244.500,sale,2,88 m²,Yes,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,234.500,sale,2,89 m²,No,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,319.500,sale,2,125 m²,No,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,334.500,sale,2,117 m²,Yes,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,304.500,sale,2,117 m²,No,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,239.500,sale,2,90 m²,Yes,No,Yes,Yes,No,,,No,No
+ Doornzelestraat 23-31  ,9000,Gent,apartment,Flat,422.000,sale,2,107 m²,Yes,No,Yes,Yes,No,,Yes,No,2020
+ Grotesteenweg-Zuid 26  ,9052,Zwijnaarde,apartment,Flat,351.500,sale,1,86 m²,Yes,No,Yes,Yes,No,,Yes,No,2022
+ Grotesteenweg-Zuid 26  ,9052,Zwijnaarde,apartment,Flat,400.000,sale,2,102 m²,Yes,No,Yes,Yes,No,,Yes,No,2022
+ Hoogkouter 30  ,9810,Eke,apartment,Ground,338.500,sale,3,106 m²,No,No,Yes,Yes,No,,Yes,No,
+,1000,Brussels,apartment,Penthouse,340.000,sale,1,62 m²,Yes,No,No,,No,,,No,No
+Address,Post Code,City,Type of property,Property Subtype,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Terrace,Terrace Area,Garden,Garden Area,Number of facades,Swimming pool,State of the building
+ Gentsesteenweg 58  ,8530,Harelbeke,house,Residence,185.000,sale,2,133 m²,No,No,No,,No,,,No,
+ Veldstraat 22  ,8020,Oostkamp,house,Residence,950,rent,4,,Yes,No,No,,No,,No,No,From 01/04/2021
+ Rue de Hollogne 141  ,4101,Jemeppe,house,Residence,120.000,sale,4,147 m²,No,No,Yes,,No,,Yes,No,
+ J. en M. Sabbestraat 131  ,8930,Menen,house,Residence,242.000,sale,5,216 m²,No,No,No,,No,,No,No,On contract
+ Bremstraat 37  ,2340,Beerse,house,Residence,250.000,sale,3,119 m²,No,No,Yes,,No,,Yes,No,No
+ Bulskampstraat 66  ,8630,Veurne,house,Residence,229.000,sale,4,166 m²,No,No,Yes,,Yes,,,No,
+ Rapaertstraat   ,8020,Hertsberge,house,Residence,378.500,sale,5,210 m²,Yes,No,No,,Yes,,,No,2021
+,1420,Braine-l'Alleud,house,Villa,2.850.000,sale,6,900 m²,Yes,No,No,,No,,No,No,1993
+ Sint-Andrieshof 46  ,8970,Poperinge,house,Villa,695.000,sale,6,329 m²,No,No,No,,No,,,No,2006
+,5100,Jambes,house,Residence,219.000,sale,2,90 m²,Yes,Yes,Yes,Yes,No,,,No,On contract
+ Hoogplaatsstraat 49  ,8510,Kooigem,house,Residence,330.000,sale,3,,No,No,No,,No,,,No,2013
+ Albert I laan 68 102 ,8620,Nieuwpoort,apartment,Flat,490.000,sale,2,97 m²,No,No,Yes,Yes,No,,Yes,No,2019
+ Moulin 22  ,6150,Anderlues,house,Villa,120.000,sale,4,180 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+,7110,Maurage,house,Residence,163.000,sale,2,100 m²,No,No,Yes,Yes,No,,Yes,No,
+,7134,Leval-Trahegnies,house,Residence,30.000,sale,5,172 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1899
+ Roeselaarsestraat 47  ,8501,Heule,house,Residence,179.000,sale,2,106 m²,No,No,No,,No,,,No,
+ Kardinaal Cardijnstraat 10  ,2840,Rumst,house,Mixed,539.000,sale,5,185 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+ Schaperijstraat 51  ,9900,Eeklo,house,Residence,115.000,sale,2,115 m²,Yes,No,No,,Yes,Yes,,No,Immediately
+ Rue des Bouillons 81  ,6060,Gilly,house,Residence,259.000,sale,3,135 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+,6040,Jumet,house,Villa,330.000,sale,3,,No,Yes,Yes,,No,,Yes,Yes,
+Address,Post Code,City,Type of property,Property Subtype,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Terrace,Terrace Area,Garden,Garden Area,Number of facades,Swimming pool,State of the building
+ Bremstraat 37  ,2340,Beerse,house,Residence,250.000,sale,3,119 m²,No,No,Yes,,No,,Yes,No,No
+ Bulskampstraat 66  ,8630,Veurne,house,Residence,229.000,sale,4,166 m²,No,No,Yes,,Yes,,,No,
+ Rapaertstraat   ,8020,Hertsberge,house,Residence,378.500,sale,5,210 m²,Yes,No,No,,Yes,,,No,2021
+,1420,Braine-l'Alleud,house,Villa,2.850.000,sale,6,900 m²,Yes,No,No,,No,,No,No,1993
+ Sint-Andrieshof 46  ,8970,Poperinge,house,Villa,695.000,sale,6,329 m²,No,No,No,,No,,,No,2006
+ Gentsesteenweg 58  ,8530,Harelbeke,house,Residence,185.000,sale,2,133 m²,No,No,No,,No,,,No,
+ Boeschepestraat 116  ,8970,Poperinge,house,Residence,216.500,sale,3,180 m²,Yes,No,No,,No,,No,No,On contract
+ Vredelaan 153  ,1982,Weerde,house,Residence,339.000,sale,3,179 m²,Yes,Yes,Yes,,No,,Yes,No,No
+,5100,Jambes,house,Residence,219.000,sale,2,90 m²,Yes,Yes,Yes,Yes,No,,,No,On contract
+ Hoogplaatsstraat 49  ,8510,Kooigem,house,Residence,330.000,sale,3,,No,No,No,,No,,,No,2013
+ Rue de Gozee 94  ,6110,Montigny-le-Tilleul,house,Master,280.000,sale,6,280 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ D?sir? Fi?v?straat 41  ,9000,Gent,house,Residence,395.000,sale,4,161 m²,Yes,No,No,,No,,,No,
+ Moulin 22  ,6150,Anderlues,house,Villa,120.000,sale,4,180 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+ Drie Veldenweg 64  ,9300,Aalst,house,Residence,215.000,sale,3,140 m²,Yes,No,Yes,Yes,No,,Yes,No,On contract
+ Hugo Verrieststraat 25  ,2850,Boom,house,Residence,155.000,sale,2,90 m²,No,No,Yes,,No,,Yes,No,No
+ Spanjestraat 216  ,8800,Roeselare,house,Residence,219.000,sale,3,147 m²,Yes,No,No,,No,,No,No,
+,7134,Leval-Trahegnies,house,Residence,30.000,sale,5,172 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1899
+,7110,Maurage,house,Residence,163.000,sale,2,100 m²,No,No,Yes,Yes,No,,Yes,No,
+ Roeselaarsestraat 47  ,8501,Heule,house,Residence,179.000,sale,2,106 m²,No,No,No,,No,,,No,
+ Kardinaal Cardijnstraat 10  ,2840,Rumst,house,Mixed,539.000,sale,5,185 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+ Schaperijstraat 51  ,9900,Eeklo,house,Residence,115.000,sale,2,115 m²,Yes,No,No,,Yes,Yes,,No,Immediately
+,6040,Jumet,house,Villa,330.000,sale,3,,No,Yes,Yes,,No,,Yes,Yes,
+ Rue des Bouillons 81  ,6060,Gilly,house,Residence,259.000,sale,3,135 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Rue de Hollogne 141  ,4101,Jemeppe,house,Residence,120.000,sale,4,147 m²,No,No,Yes,,No,,Yes,No,
+ J. en M. Sabbestraat 131  ,8930,Menen,house,Residence,242.000,sale,5,216 m²,No,No,No,,No,,No,No,On contract
+ Rue Jacquet 7  ,5580,Rochefort,house,Residence,635.000,sale,6,292 m²,Yes,Yes,Yes,Yes,No,,Yes,No,
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,249.500,sale,2,88 m²,No,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,244.500,sale,2,88 m²,Yes,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,234.500,sale,2,89 m²,No,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,319.500,sale,2,125 m²,No,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,334.500,sale,2,117 m²,Yes,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,304.500,sale,2,117 m²,No,No,Yes,Yes,No,,,No,No
+ Nijlense Steenweg 107  ,2270,Herenthout,apartment,Flat,239.500,sale,2,90 m²,Yes,No,Yes,Yes,No,,,No,No
+ Doornzelestraat 23-31  ,9000,Gent,apartment,Flat,422.000,sale,2,107 m²,Yes,No,Yes,Yes,No,,Yes,No,2020
+,1000,Brussels,apartment,Penthouse,340.000,sale,1,62 m²,Yes,No,No,,No,,,No,No
+ Grotesteenweg-Zuid 26  ,9052,Zwijnaarde,apartment,Flat,351.500,sale,1,86 m²,Yes,No,Yes,Yes,No,,Yes,No,2022
+ Grotesteenweg-Zuid 26  ,9052,Zwijnaarde,apartment,Flat,400.000,sale,2,102 m²,Yes,No,Yes,Yes,No,,Yes,No,2022
+ Hoogkouter 30  ,9810,Eke,apartment,Ground,338.500,sale,3,106 m²,No,No,Yes,Yes,No,,Yes,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+ Vredelaan 118  ,1982,Weerde,house,Residence,349.000,sale,3,154 m²,No,Yes,Yes,,No,,Yes,No,No
+,5537,Anhée,house,Cottage,239.500,sale,3,,No,Yes,Yes,,No,,Yes,No,
+ Rue Emmanuel Jacquet 33  ,6044,Roux,house,Residence,239.000,sale,3,125 m²,Yes,No,No,,No,,1002 m²,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+ Verwerijstraat 16  ,8800,Roeselare,house,Residence,169.000,sale,5,,No,No,No,,No,,No,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+ Rue des Carriers 42  ,5300,Seilles,apartment,Flat,650,rent,2,70 m²,No,Yes,No,,No,,,No,
+ Glazeniersstraat 43  ,8800,Roeselare,house,Residence,191.000,sale,3,129 m²,No,No,Yes,Yes,Yes,Yes,Yes,No,1965
+,9300,Aalst,house,Residence,279.000,sale,3,183 m²,No,No,No,,No,,,No,
+ Hovaerestraat 21  ,8680,Koekelare,house,Residence,225.000,sale,4,,Yes,No,No,,No,,No,No,
+,6061,Montignies-sur-Sambre,house,Residence,126.000,sale,2,84 m²,No,No,Yes,,No,,Yes,No,
+,1030,Schaarbeek,house,Residence,349.990,sale,3,180 m²,No,No,No,,No,,Yes,No,1932
+,3090,Overijse,house,Villa,1.800.000,sale,15,730 m²,No,Yes,No,,No,,Yes,No,
+ Broekstraat 56  ,1831,Diegem,house,Residence,390.000,sale,5,204 m²,Yes,Yes,No,,No,,900 m²,No,To be agreed
+ Molenstraat 1  ,2870,Puurs,house,Residence,450.000,sale,4,285 m²,No,Yes,No,,No,,1148 m²,No,On contract
+ Wichelsesteenweg 121  ,9340,Lede,house,Residence,199.000,sale,4,185 m²,Yes,Yes,Yes,,No,,Yes,No,No
+ Jaak van Haesendonckstraat 59  ,2180,Ekeren,house,Residence,339.000,sale,3,177 m²,No,Yes,Yes,Yes,No,,Yes,No,
+,6000,Charleroi,house,Residence,175.000,sale,5,160 m²,No,No,Yes,Yes,Yes,Yes,,No,
+ Rue du Ch?taignier 9  ,6960,Harre,house,Residence,150.000,sale,4,103 m²,Yes,No,No,,No,,800 m²,No,
+ Brandstraat 48 b ,9255,Buggenhout,house,Residence,386.859,sale,3,,No,No,No,,No,,4,No,
+ Leeuwbeekstraat 16  ,3454,Rummen,house,Residence,279.000,sale,150 m²,150 m²,No,No,No,,No,,,No,1980
+ Achterstraat 90  ,9450,Haaltert,house,Residence,139.000,sale,3,,Yes,Yes,No,,No,,Yes,No,
+ Joseph Matthieulaan 9  ,8434,Lombardsijde,house,Residence,349.000,sale,6,216 m²,Yes,No,Yes,,Yes,,,No,
+,1083,Ganshoren,apartment,Flat,199.000,sale,3,114 m²,No,Yes,Yes,Yes,No,,,No,1970
+ Rue des Chasseurs Ardennais 5 002 ,6880,Bertrix,apartment,Ground,230.000,sale,2,103 m²,Yes,No,Yes,Yes,No,,,No,No
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,287.213,sale,2,91 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,270.250,sale,2,89 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,276.000,sale,2,91 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,221.850,sale,1,71 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,274.350,sale,2,88 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,278.400,sale,2,91 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,225.675,sale,1,71 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,269.700,sale,2,88 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,270.563,sale,2,85 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,309.413,sale,2,99 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,331.088,sale,2,109 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,257.313,sale,2,84 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,277.438,sale,2,91 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,260.188,sale,2,85 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,265.938,sale,2,87 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,320.563,sale,2,106 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,261.788,sale,2,84 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,264.713,sale,2,85 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,282.263,sale,2,91 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,326.138,sale,2,106 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,330.525,sale,2,94 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,277.500,sale,1,88 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,261.800,sale,2,88 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,259.000,sale,2,87 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,245.000,sale,1,75 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,231.000,sale,1,70 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,268.813,sale,2,88 m²,No,No,Yes,Yes,No,,Yes,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,231.438,sale,1,75 m²,No,No,Yes,Yes,No,,Yes,No,
+ Meerlaan 34  ,9620,Zottegem,house,Residence,199.000,sale,2,192 m²,No,Yes,Yes,,No,,Yes,No,
+ Kleine Bergen 13  ,2830,Heindonk,house,Residence,368.000,sale,3,250 m²,No,Yes,No,,No,,1600 m²,No,
+,8793,Sint-Eloois-Vijve,house,Residence,ne,sale,3,4720 m²,No,No,No,,No,,,No,
+ Rue du Progrès 105  ,6180,Courcelles,house,Residence,220.000,sale,3,163 m²,No,Yes,Yes,,No,,Yes,No,
+,7740,Pecq,house,Mixed,429.000,sale,5,,No,Yes,Yes,,No,,Yes,No,Yes
+ Astridlaan 170  ,8310,Assebroek,house,Residence,828.000,sale,3,568 m²,No,Yes,No,,Yes,Yes,Yes,No,On contract
+ Sint-Pieterskaai 76  ,8000,Brugge,house,Residence,449.000,sale,3,300 m²,No,No,Yes,Yes,No,,,No,
+ grasplein 16  ,8520,Kuurne,house,Residence,255.000,sale,4,150 m²,Yes,Yes,No,,No,,Yes,No,1974
+,1420,Braine-l'Alleud,house,Residence,299.000,sale,3,123 m²,Yes,No,Yes,,Yes,,,No,
+ Neuve 46  ,1640,Sint-Genesius-Rode,house,Residence,515.000,sale,3,192 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+,1150,Sint-Pieters-Woluwe,house,Villa,5.950.000,sale,7,751 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+,9320,Nieuwerkerken,house,Residence,265.000,sale,3,150 m²,No,No,Yes,Yes,No,,Yes,No,No
+ Baron Ruzettelaan 144  ,8310,Assebroek,house,Mixed,279.000,sale,2,,Yes,No,No,,No,,312 m²,No,
+ Leenhof Lot 2  ,8310,Assebroek,house,Villa,729.300,sale,4,220 m²,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,No
+ Strombeeksesteenweg 10  ,1800,Vilvoorde,house,Residence,295.000,sale,2,120 m²,No,No,No,,Yes,Yes,,No,
+ Delaeystraat 71  ,8830,Hooglede,house,Residence,209.000,sale,4,185 m²,No,No,No,,No,,No,No,On contract
+,8540,Deerlijk,house,Residence,ne,sale,3,255 m²,Yes,No,No,,No,,No,No,On contract
+ Oude Barrier 22 C ,3583,Paal,house,Residence,349.000,sale,3,129 m²,No,No,Yes,Yes,Yes,Yes,,No,
+ Elfde Julilaan 8  ,8860,Lendelede,house,Villa,290.000,sale,3,,Yes,No,No,,No,,No,No,
+,6840,Neufchâteau,house,Residence,89.000,sale,2,80 m²,Yes,No,Yes,,No,,Yes,No,
+ Konijnenberg 50  ,9308,Gijzegem,house,Villa,269.000,sale,3,243 m²,No,Yes,Yes,,No,,Yes,No,
+ Gijmelbergweg 1  ,3201,Langdorp,house,Villa,850.000,sale,3,200 m²,Yes,No,Yes,Yes,Yes,Yes,,No,No
+ Rue Alphonse Lenaerts 78  ,1950,Kraainem,house,Villa,1.090.000,sale,5,270 m²,Yes,No,Yes,,Yes,Yes,Yes,No,
+ Oorderseweg 153  ,2180,Ekeren,house,Residence,348.000,sale,4,190 m²,No,No,Yes,Yes,Yes,Yes,Yes,No,
+ Beemdekensstraat 7  ,2220,Heist-op-den-Berg,house,Residence,179.000,sale,2,115 m²,No,Yes,No,,No,,67 m,No,1960
+ Cederstraat 47  ,9000,Gent,house,Residence,264.000,sale,3,100 m²,Yes,No,No,,Yes,Yes,,No,
+ Prinses Marie-Joséplein 12  ,8500,Kortrijk,house,Residence,309.000,sale,4,200 m²,Yes,No,No,,Yes,,Yes,No,
+ Herenthoutse steenweg 14  ,2288,Bouwel,house,Residence,334.000,sale,3,192 m²,No,Yes,No,,No,,No,No,No
+ Graanstraat lot 2  ,3945,Ham,house,Residence,235.000,sale,4,,No,No,No,,No,,,No,2020
+ Graanstraat lot 3  ,3945,Ham,house,Residence,235.000,sale,4,225 m²,No,No,No,,No,,,No,2020
+ Graanstraat lot 4  ,3945,Ham,house,Residence,235.000,sale,4,225 m²,No,No,No,,No,,,No,2020
+ Genenbemdestraat 1  ,3945,Ham,house,Residence,235.000,sale,4,,No,No,No,,No,,,No,2020
+ Peperstraat 22  ,8647,Reninge,house,Residence,199.000,sale,4,210 m²,Yes,Yes,No,,Yes,,,No,On contract
+ Jules Persynstraat 42  ,9050,Gentbrugge,house,Residence,329.000,sale,4,138 m²,Yes,No,No,,Yes,,,No,From 31/12/2021
+    ,7140,Morlanwelz,house,Residence,297.950,sale,3,,No,No,No,,No,,,No,
+,8510,Rollegem,house,Residence,189.000,sale,3,179 m²,Yes,No,No,No,No,,No,No,
+ Rabotstraat 83  ,9000,Gent,house,Master,645.000,sale,4,351 m²,Yes,Yes,No,,Yes,,,No,On contract
+ Meensesteenweg 410  ,8501,Bissegem,house,Master,329.000,sale,4,220 m²,No,No,No,,No,,Yes,No,
+ Commandant Lemaire 96  ,7033,Cuesmes,house,Mixed,250.000,sale,5,560 m²,No,No,Yes,Yes,No,,,No,
+ Pastoriestraat 17  ,3945,Ham,house,Residence,649.000,sale,4,452 m²,No,Yes,Yes,,No,,Yes,No,
+,6280,Acoz,house,Residence,335.000,sale,2,150 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,
+ Dorpsstraat 39  ,8660,Adinkerke,house,Residence,165.000,sale,3,120 m²,Yes,No,Yes,,Yes,,,No,
+,7750,Orroir,house,Residence,254.500,sale,3,190 m²,No,Yes,Yes,,No,,Yes,No,
+,7750,Orroir,house,Residence,256.500,sale,3,190 m²,No,Yes,Yes,,No,,Yes,No,
+,7750,Orroir,house,Residence,257.000,sale,3,190 m²,No,Yes,Yes,,No,,Yes,No,
+,7750,Orroir,house,Residence,284.000,sale,3,202 m²,No,Yes,Yes,,No,,Yes,No,
+,7750,Orroir,house,Residence,255.500,sale,3,194 m²,No,Yes,Yes,,No,,Yes,No,
+,7750,Orroir,house,Residence,250.000,sale,3,190 m²,No,Yes,Yes,,No,,Yes,No,
+,7750,Orroir,house,Residence,266.000,sale,3,204 m²,No,Yes,Yes,,No,,Yes,No,
+,7750,Orroir,house,Residence,253.000,sale,3,190 m²,No,Yes,Yes,,No,,Yes,No,
+,7750,Orroir,house,Residence,267.000,sale,3,202 m²,No,Yes,Yes,,No,,Yes,No,
+,1120,Neder-Over-Heembeek,house,Residence,300.000,sale,4,115 m²,Yes,No,Yes,,Yes,Yes,Yes,No,No
+,1420,Braine-l'Alleud,house,Residence,245.000,sale,2,100 m²,Yes,No,Yes,,Yes,,,No,
+ Avenue des Amandiers 6  ,6220,Lambusart,house,Residence,159.000,sale,4,170 m²,No,Yes,Yes,,No,,Yes,No,
+ Rue du Château 10   ,1420,Braine-l'Alleud,house,Residence,299.000,sale,3,250 m²,No,No,Yes,Yes,Yes,Yes,Yes,No,
+ heembeekstraat   ,1800,Vilvoorde,house,Residence,385.000,sale,3,180 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Rue des Houillères 6  ,4520,Bas-Oha,house,Residence,249.000,sale,3,135 m²,Yes,Yes,Yes,,Yes,Yes,Yes,No,No
+ Kuitenberg 41 A ,9920,Lovendegem,house,Residence,ne,sale,3,,No,No,No,,No,,,No,
+ Bessemerstraat 165 1 ,3620,Lanaken,house,Residence,267.000,sale,2,122 m²,No,No,No,,No,,Yes,No,1975
+ Koning Boudewijnlaan 45  ,9200,Dendermonde,house,Residence,199.000,sale,3,,No,No,No,,No,,,No,
+ Aalststraat 203  ,9700,Oudenaarde,house,Residence,269.000,sale,4,124 m²,No,No,No,,No,,5 m,No,1934
+ Binnenslag 8  ,9920,Lievegem,house,Residence,270.000,sale,3,245 m²,No,No,No,,No,,,No,1983
+ Moldergem 118  ,9630,Zwalm,house,Cottage,375.000,sale,4,118 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,1994
+ Lobergenbos 17  ,3010,Kessel-Lo,house,Villa,795.000,sale,4,360 m²,Yes,Yes,No,No,No,,,No,To be agreed
+ Leebeekpad   ,9000,Gent,house,Residence,444.500,sale,3,141 m²,No,No,No,,Yes,,Yes,No,2020
+ Leebeekpad   ,9000,Gent,house,Residence,476.000,sale,4,169 m²,No,No,No,,Yes,,Yes,No,2020
+,1357,Hélécine,house,Cottage,399.000,sale,4,7064 m²,Yes,Yes,Yes,,Yes,Yes,Yes,No,No
+ Baversstraat 37  ,3700,Tongeren,house,Residence,285.000,sale,4,156 m²,Yes,Yes,No,,No,,,No,
+ Grotestraat 218  ,3850,Wijer,house,Residence,339.000,sale,4,225 m²,Yes,No,No,,No,,,No,On contract
+ Rietveld 20  ,2640,Mortsel,house,Residence,373.300,sale,2,183 m²,Yes,Yes,No,,No,No,No,No,
+ Delaeystraat 120  ,8830,Hooglede,house,Residence,395.000,sale,4,,Yes,Yes,No,,No,,,No,
+ Moerkerkestraat 5  ,8000,Brugge,house,Residence,220.000,sale,3,,No,No,No,,No,,,No,
+ Schoonwater 73  ,8560,Gullegem,house,Residence,149.000,sale,2,124 m²,Yes,Yes,No,,Yes,,,No,On contract
+ Schoonwater 73  ,8560,Gullegem,house,Residence,149.000,sale,2,124 m²,Yes,Yes,No,,Yes,,,No,On contract
+ Pylyserlaan 13  ,8670,Koksijde,house,Residence,245.000,sale,3,80 m²,No,No,No,,No,,No,No,On contract
+ Kerkhofstraat 22  ,3950,Bocholt,house,Residence,365.000,sale,2,151 m²,Yes,Yes,Yes,Yes,No,,Yes,No,On contract
+ Lodewijk van Malestraat 74  ,8310,Sint-Kruis,house,Residence,339.000,sale,4,161 m²,No,No,No,,No,,No,No,On contract
+ Hazelaarstraat 50  ,9940,Evergem,house,Residence,279.000,sale,3,133 m²,No,No,No,,No,,No,No,On contract
+ Frans Rensstraat 50  ,9000,Gent,house,Residence,249.900,sale,4,90 m²,No,No,No,,No,,No,No,1917
+ Bevrijdingslaan 290  ,9000,Gent,house,Residence,359.000,sale,3,140 m²,No,No,No,,No,,No,No,1918
+ Bevrijdingslaan 290  ,9000,Gent,house,Residence,359.000,sale,3,140 m²,No,No,No,,No,,No,No,1918
+,8830,Hooglede,house,Residence,599.000,sale,3,194 m²,Yes,No,No,,No,,No,No,On contract
+,8610,Kortemark,house,Residence,199.000,sale,2,144 m²,Yes,No,No,,No,,No,No,
+ Zeshoekstraat 7  ,9190,Stekene,house,Residence,380.000,sale,3,190 m²,Yes,No,No,,No,,Yes,No,
+ Rooseveltlaan 69  ,9420,Erpe-Mere,house,Residence,219.000,sale,3,162 m²,Yes,No,No,,No,,,No,
+ Tweekerkenstraat 138  ,9620,Zottegem,house,Residence,229.000,sale,3,,Yes,No,No,,No,,,No,
+ Plantenstraat 106  ,3500,Hasselt,house,Residence,269.000,sale,3,122 m²,No,No,Yes,Yes,No,,Yes,No,1930
+ Leenbosstraat 2 D001 ,8830,Hooglede,house,Residence,258.575,sale,4,149 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,2019
+ Leenbosstraat 2 D002 ,8830,Hooglede,house,Residence,258.850,sale,4,140 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,2019
+ Leenbosstraat 2 E001 ,8830,Hooglede,house,Residence,258.950,sale,4,145 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,2019
+ Leenbosstraat 2 E002 ,8830,Hooglede,house,Residence,271.500,sale,4,145 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,2019
+ Holstraat 48  ,8570,Anzegem,house,Villa,698.000,sale,2,200 m²,Yes,Yes,No,,No,,105 m²,No,On contract
+ Tiegemberg 29  ,8573,Tiegem,house,Villa,799.000,sale,5,400 m²,Yes,Yes,No,,No,,300 m²,No,On contract
+ Tiegemberg 29  ,8570,Anzegem,house,Villa,799.000,sale,5,400 m²,Yes,Yes,No,,No,,300 m²,No,On contract
+ Leenbosstraat 2 F003 ,8830,Hooglede,house,Residence,239.125,sale,1,86 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,2019
+ Cotthem 16  ,9520,Sint-Lievens-Houtem,house,Residence,625.000,sale,4,258 m²,No,No,No,,No,,1026 m²,No,
+ Henry Dunantstraat 3  ,8760,Meulebeke,house,Residence,292.300,sale,3,,No,No,No,,No,,Yes,No,
+ Meenseheirweg 15B  ,8800,Roeselare,house,Residence,286.411,sale,3,,No,No,No,,No,,Yes,No,
+ Aalstersesteenweg 256  ,9400,Ninove,house,Residence,265.000,sale,3,,Yes,No,No,,Yes,Yes,Yes,No,1936
+ Damstraat 20  ,9260,Serskamp,house,Residence,320.000,sale,3,170 m²,No,No,No,,No,,Yes,No,1965
+ Paul Wielemanstraat 4  ,8570,Vichte,house,Residence,459.000,sale,4,220 m²,No,No,No,,Yes,Yes,,No,1990
+ Langestraat 1  ,8434,Westende,house,Residence,287.458,sale,3,113 m²,No,No,No,,No,,134 m²,No,2021
+ Heislagsebaan 130  ,2930,Brasschaat,house,Residence,384.000,sale,4,,No,No,No,,Yes,Yes,Yes,No,
+ Eendrachtstraat 42  ,9940,Evergem,house,Residence,298.000,sale,3,165 m²,Yes,No,No,,No,,Yes,No,1932
+ Rodenbachlaan 15  ,8760,Meulebeke,house,Residence,230.000,sale,4,145 m²,No,No,No,,No,,,No,
+ Expostraat 9  ,9300,Aalst,house,Residence,265.000,sale,3,155 m²,Yes,No,No,,No,,Yes,No,1958
+ Steenweg 313  ,9810,Eke,house,Residence,425.378,sale,3,,No,No,No,,No,,4,No,
+,9940,Ertvelde,house,Residence,ne,sale,3,,No,No,No,,No,,3,No,
+ Bergestraat 106  ,1730,Asse,house,Residence,388.891,sale,3,,No,No,No,,No,,4,No,
+ Nederzwijnaarde 73  ,9052,Zwijnaarde,house,Residence,335.315,sale,3,,No,No,No,,No,,3,No,
+ Marie Van Brusselstraat 15  ,9140,Temse,house,Residence,381.311,sale,3,,No,No,No,,No,,3,No,
+ Kasterstraat 6  ,8572,Kaster,house,Residence,374.165,sale,3,,No,No,No,,No,,4,No,
+ Korianderstraat 15  ,9940,Evergem,house,Residence,328.031,sale,3,,No,No,No,,No,,4,No,
+ Lusthof 22  ,9840,De Pinte,house,Residence,461.715,sale,3,,No,No,No,,No,,3,No,
+ Rue du Paradis 50  ,6980,La Roche-en-Ardenne,house,Residence,520.000,sale,3,187 m²,Yes,No,No,,No,,187 m²,No,On contract
+,9150,Kruibeke,house,Residence,462.000,sale,3,190 m²,Yes,Yes,Yes,Yes,No,,Yes,No,2021
+ Beenhouwerstraat 15  ,2830,Heindonk,house,Residence,885.000,sale,5,260 m²,No,No,No,,No,,Yes,No,On contract
+ Kwikstraat 12  ,3078,Everberg,house,Residence,299.000,sale,150 m²,150 m²,No,No,No,,No,,,No,
+ Lindestraat 89  ,1800,Peutie,house,Residence,299.000,sale,3,155 m²,Yes,No,Yes,Yes,No,,Yes,No,
+,7370,Dour,house,Residence,135.000,sale,4,160 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,2021
+,7370,Wihéries,house,Residence,145.000,sale,4,160 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,2021
+ Violierenlaan 46  ,8400,Oostende,house,Residence,275.000,sale,4,160 m²,Yes,Yes,No,,Yes,Yes,Yes,No,On contract
+,4800,Lambermont,house,Residence,795.000,sale,7,456 m²,Yes,No,No,,No,,2600 m²,No,1974
+ Weertersteenweg 5A  ,3640,Kinrooi,house,Villa,698.000,sale,4,290 m²,Yes,Yes,No,,No,,1527 m²,No,On contract
+ Beekstraat 25  ,1980,Eppegem,house,Residence,419.000,sale,3,,Yes,No,No,,No,,Yes,No,On contract
+ Wildernisstraat 1b  ,3530,Houthalen-Helchteren,house,Residence,274.000,sale,3,265 m²,Yes,No,Yes,Yes,No,,Yes,No,2005
+,7380,Quiévrain,house,Villa,119.000,sale,2,72 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+ Hundelgemsesteenweg 219  ,9050,Ledeberg,house,Residence,289.000,sale,2,126 m²,Yes,No,No,,No,,Yes,No,On contract
+ Onze-Lieve-Vrouwstraat   ,3130,Betekom,house,Residence,399.529,sale,3,207 m²,Yes,No,No,,No,,376 m²,No,
+,9820,Merelbeke,house,Residence,464.625,sale,4,240 m²,No,No,No,,No,,,No,
+ Rooigemlaan 182  ,9000,Gent,house,Residence,290.000,sale,4,160 m²,Yes,No,No,,No,,,No,On contract
+ Brugsespoortstraat 30  ,9000,Gent,house,Residence,450.000,sale,3,190 m²,Yes,No,No,,No,,,No,1755
+ Beenhouwerstraat 15  ,2830,Heindonk,house,Residence,885.000,sale,4,250 m²,Yes,No,Yes,,Yes,Yes,Yes,No,No
+ Gentsesteenweg 19  ,8530,Harelbeke,house,Residence,155.000,sale,2,122 m²,Yes,No,No,,Yes,Yes,Yes,No,
+ Grevensmolenweg 136A  ,3800,Sint-Truiden,house,Villa,699.000,sale,4,,No,No,No,,No,,42 m,No,2020
+,1470,Bousval,house,Residence,1.500.000,sale,5,300 m²,Yes,Yes,No,,Yes,Yes,Yes,No,On contract
+ Kapelletjesweg 10  ,2280,Grobbendonk,house,Residence,349.000,sale,4,200 m²,No,Yes,No,,No,,No,No,No
+ Savooistraat 183  ,9600,Ronse,house,Residence,210.000,sale,2,233 m²,Yes,No,No,,No,,80 m²,No,
+ Bosstraat 54  ,8570,Vichte,house,Residence,325.000,sale,3,150 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,2020
+ Deurnestraat 267/ LOT 2  ,9600,Ronse,house,Residence,279.900,sale,3,146 m²,Yes,No,No,,No,,70 m²,No,2021
+ Argendaalstraat 3  ,8510,Bellegem,house,Villa,430.000,sale,3,247 m²,Yes,Yes,No,,No,,1017 m²,No,On contract
+ Rapaertstraat   ,8020,Hertsberge,house,Residence,388.500,sale,5,210 m²,Yes,No,No,,Yes,,,No,2021
+ Terhulpensesteenweg 637  ,3090,Overijse,house,Residence,435.000,sale,3,130 m²,No,Yes,Yes,,No,,Yes,No,No
+ Terlostraat 54  ,1755,Gooik,house,Residence,374.886,sale,2,164 m²,No,No,No,,No,,No,No,
+ Wagenmakersstraat 18  ,8310,Assebroek,house,Residence,389.000,sale,3,225 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Koolstuk 28  ,8310,Assebroek,house,Residence,315.000,sale,2,162 m²,Yes,Yes,Yes,Yes,No,,Yes,No,
+ Maasfortbaan 18  ,2500,Lier,house,Residence,799.000,sale,4,292 m²,Yes,No,Yes,,No,,Yes,Yes,
+ Valleistraat 171  ,9402,Meerbeke,house,Residence,450.000,sale,5,343 m²,No,Yes,No,,Yes,,Yes,No,No
+ Rue Salinas 22B  ,5380,Noville-les-Bois,house,Residence,ne,sale,2,160 m²,Yes,No,No,,No,,809 m²,No,
+ Dorpstraat 156 1 ,3060,Bertem,house,Residence,357.000,sale,4,136 m²,Yes,No,Yes,Yes,Yes,,,No,
+ Eikvarenlaan 36  ,2950,Kapellen,house,Residence,265.000,sale,3,184 m²,No,Yes,Yes,,Yes,Yes,Yes,No,No
+ Rue de la Paix 15 et 17  ,7321,Blaton,house,Residence,100.000,sale,4,,No,No,No,,No,,3,No,
+    ,7370,Élouges,house,Residence,110.000,sale,3,124 m²,Yes,No,No,,No,,Yes,No,
+ Rue Emile Vandervelde 301  ,7000,Mons,house,Residence,185.000,sale,3,158 m²,Yes,No,No,,No,,,No,
+,6224,Wanfercée-Baulet,house,Residence,60.000,sale,2,90 m²,No,No,No,,No,,,No,
+,6224,Wanfercée-Baulet,house,Residence,80.000,sale,2,90 m²,No,No,No,,No,,,No,
+,6020,Dampremy,house,Residence,198.500,sale,4,186 m²,Yes,No,No,,No,,,No,
+ Koningsstraat 69  ,3920,Lommel,house,Residence,329.500,sale,3,154 m²,No,No,No,,Yes,,,No,
+ Reppelerweg 85  ,3990,Peer,house,Residence,409.000,sale,3,178 m²,No,No,Yes,,Yes,,,No,
+ Molenweg 1  ,3294,Molenstede,house,Residence,315.000,sale,3,177 m²,No,Yes,Yes,Yes,Yes,Yes,,No,
+ Rue Outre-l'Eau 23  ,7600,Péruwelz,house,Villa,235.000,sale,4,,Yes,No,No,,No,,4,No,
+ Rue des Combattants 177  ,7972,Ellignies-Sainte-Anne,house,Villa,230.000,sale,3,,Yes,No,No,,No,,4,No,
+,1150,Sint-Pieters-Woluwe,house,Villa,1.250.000,sale,5,280 m²,Yes,No,No,,Yes,,Yes,No,On contract
+ Steenstraat 22  ,9340,Lede,house,Residence,315.000,sale,3,192 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+,4032,Chênée,house,Residence,185.000,sale,2,86 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+ Bosstraat 113  ,3930,Hamont,house,Villa,469.000,sale,3,298 m²,No,No,No,,Yes,,,No,
+,9450,Denderhoutem,house,Mixed,295.000,sale,2,148 m²,No,Yes,Yes,,No,,Yes,No,
+ Spanjestraat 64  ,8840,Oostnieuwkerke,house,Bungalow,425.000,sale,2,200 m²,No,No,Yes,,Yes,,,No,
+,9450,Haaltert,house,Residence,225.000,sale,1,,No,No,Yes,,No,,Yes,No,
+ Dijkstraat 1  ,2288,Bouwel,house,Residence,469.000,sale,3,185 m²,Yes,Yes,Yes,,No,,Yes,No,No
+ Mandelstraat 26  ,8720,Dentergem,house,Residence,275.000,sale,3,177 m²,Yes,No,No,,No,,,No,2015
+ Leeuwerikstraat 7  ,8800,Roeselare,house,Residence,ne,sale,4,200 m²,Yes,No,No,No,No,,,No,1963
+ Dorpsstraat 65  ,9980,Sint-Laureins,house,Residence,235.000,sale,4,200 m²,Yes,No,No,No,No,,,No,1947
+ Marktstraat 8  ,8810,Lichtervelde,house,Residence,275.000,sale,3,322 m²,Yes,No,No,No,No,,,No,1952
+ James Ensorstraat 23  ,8800,Roeselare,house,Residence,230.000,sale,3,126 m²,Yes,No,No,No,No,,,No,1977
+ Rue Léon Hanozet 10  ,5310,Bolinne,house,Residence,250.000,sale,3,155 m²,Yes,Yes,Yes,Yes,Yes,,Yes,No,On contract
+ Geelsebaan 11/1  ,2430,Laakdal,house,Residence,330.000,sale,3,170 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,2009
+ Spinolarei 20  ,8000,Brugge,house,Master,2.200.000,sale,5,605 m²,Yes,No,No,,No,,,No,
+ Noordstraat 16  ,9961,Boekhoute,house,Residence,ne,sale,3,220 m²,Yes,No,No,,Yes,,Yes,No,2021
+ Antwerpsesteenweg 30  ,2630,Aartselaar,house,Residence,100.000,sale,4,266 m²,No,No,No,,No,,,No,
+,6690,Vielsalm,house,Residence,355.000,sale,3,219 m²,No,No,Yes,Yes,No,,Yes,No,
+ Rue de l'Abbé 16 A ,6183,Trazegnies,house,Mixed,359.000,sale,3,266 m²,No,Yes,Yes,,No,,Yes,No,
+ Rue Destrée 5  ,6030,Marchienne-au-Pont,house,Residence,99.000,sale,2,100 m²,Yes,No,Yes,,No,,Yes,No,
+ Kortrijkse heerweg 80  ,8540,Deerlijk,house,Residence,650.000,sale,4,290 m²,No,No,No,,No,,Yes,No,1973
+    ,6031,Monceau-sur-Sambre,house,Residence,150.000,sale,3,155 m²,Yes,No,No,,No,,,No,
+ Tabakbergstraat 11a  ,3080,Tervuren,house,Residence,249.000,sale,3,114 m²,Yes,No,No,,No,,No,No,
+ Guldendal 24  ,2800,Mechelen,house,Residence,325.000,sale,3,157 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+,1853,Strombeek-Bever,house,Residence,579.000,sale,4,270 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+,6593,Macquenoise,house,Villa,150.000,sale,3,100 m²,Yes,No,No,,No,,,No,
+ Rue de Warquignies 244  ,7301,Hornu,house,Residence,199.000,sale,4,155 m²,No,No,Yes,Yes,Yes,Yes,Yes,No,
+ Izegemseaardeweg 57  ,8800,Roeselare,house,Residence,282.793,sale,3,,No,No,No,,No,,,No,2021
+ Bloemkoolstraat 35  ,8800,Roeselare,house,Residence,291.000,sale,3,,No,No,No,,No,,,No,2021
+ Bloemkoolstraat 39  ,8800,Roeselare,house,Residence,263.515,sale,3,,No,No,No,,No,,,No,2021
+ Bloemkoolstraat 31  ,8800,Roeselare,house,Residence,290.731,sale,3,,No,No,No,,No,,,No,2021
+ Marktstraat 6  ,8510,Marke,house,Residence,124.500,sale,3,,No,No,No,,No,,,No,
+    ,6200,Bouffioulx,house,Residence,86.000,sale,2,80 m²,Yes,No,No,,No,,,No,
+ Breedstraat 163  ,9100,Sint-Niklaas,house,Residence,299.000,sale,3,,No,No,Yes,Yes,Yes,Yes,Yes,No,
+ Rue des Coquelicots 82  ,4020,Liege,house,Residence,254.500,sale,3,165 m²,No,Yes,Yes,,No,,Yes,No,No
+ Gooreind 19  ,2440,Geel,house,Residence,269.000,sale,3,190 m²,No,No,Yes,,No,,Yes,No,
+,1700,Dilbeek,house,Residence,449.500,sale,3,89 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,On contract
+ Goorweg 77  ,2220,Heist-op-den-Berg,house,Residence,245.000,sale,3,158 m²,Yes,Yes,No,,No,,74 m,No,On contract
+ Schuttersstraat 15  ,8500,Kortrijk,house,Residence,140.000,sale,2,75 m²,Yes,No,No,,No,,Yes,No,
+ Rue des sarazins 4  ,5020,Champion,house,Residence,399.000,sale,3,243 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Bissegemsestraat 137  ,8501,Bissegem,house,Residence,219.000,sale,4,154 m²,No,No,No,,No,,,No,
+ Jozef Meganckstraat 35  ,9300,Aalst,house,Residence,180.000,sale,3,180 m²,Yes,No,No,,No,,Yes,No,1950
+ Rozenstraat 46  ,9160,Lokeren,house,Residence,235.000,sale,3,,No,No,No,,No,,145 m²,No,
+ Daknamstraat 28  ,9160,Lokeren,house,Residence,249.000,sale,2,,No,No,No,,No,,268 m²,No,
+ Edingensesteenweg 49  ,1500,Halle,house,Residence,325.000,sale,5,170 m²,No,No,Yes,,Yes,,,No,
+ Hoogveld 10  ,2580,Beerzel,house,Residence,375.000,sale,3,160 m²,Yes,Yes,Yes,,No,,Yes,No,No
+,7170,La Hestre,house,Residence,145.000,sale,2,186 m²,No,No,Yes,,No,,Yes,No,
+ Steenbakkerstraat 54  ,8400,Oostende,house,Residence,158.000,sale,2,116 m²,Yes,No,No,,Yes,,,No,
+ Avenue Leopold III 71  ,1970,Wezembeek-Oppem,house,Residence,449.000,sale,2,168 m²,Yes,Yes,Yes,,No,,Yes,No,No
+ Stationsstraat 126  ,9280,Lebbeke,house,Residence,200.000,sale,4,185 m²,No,No,Yes,Yes,Yes,Yes,Yes,No,
+ Vaartstraat 45  ,2845,Niel,house,Residence,250.000,sale,3,110 m²,Yes,No,No,,No,,,No,1921
+ Pieter Cornelisstraat 61  ,1601,Ruisbroek,house,Residence,315.000,sale,4,160 m²,No,No,No,,Yes,,,No,
+ Abraham Hansstraat 14  ,8650,Houthulst,house,Residence,295.000,sale,3,130 m²,Yes,No,No,No,No,,No,No,On contract
+ Stationstraat 11  ,2845,Niel,house,Residence,269.000,sale,3,163 m²,Yes,No,No,,No,,Yes,No,
+ Koolkapperstraat 37  ,9000,Gent,house,Residence,375.000,sale,3,135 m²,No,No,No,,Yes,Yes,Yes,No,On contract
+,1560,Hoeilaart,house,Residence,360.000,sale,4,128 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,On contract
+ Nieuwdorp 7  ,9190,Stekene,house,Residence,225.000,sale,2,126 m²,Yes,No,No,,No,,Yes,No,On contract
+ Fabriekstraat 141  ,3950,Bocholt,house,Residence,269.000,sale,3,182 m²,Yes,No,No,,No,No,No,No,On contract
+ Tweekerkenstraat 131  ,9620,Zottegem,house,Villa,419.000,sale,3,225 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+ Karnemelkstraat 22  ,8750,Zwevezele,house,Villa,362.000,sale,3,,No,No,No,,No,,,No,2015
+,1180,Ukkel,house,Villa,995.000,sale,4,230 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,2005
+ Hondsmertjesstraat 34  ,8870,Izegem,house,Residence,325.000,sale,4,297 m²,Yes,No,No,,No,,,No,1945
+,1140,Evere,house,Residence,549.000,sale,5,200 m²,No,No,Yes,Yes,No,,Yes,No,
+ Walzegem 32  ,9860,Balegem,house,Residence,679.000,sale,3,,No,No,No,,No,,Yes,No,2015
+ Tuindelle 56  ,3090,Overijse,house,Residence,395.000,sale,2,200 m²,Yes,No,No,,No,,Yes,No,1979
+ Rue Machine ? Feu 21  ,7100,La Louvière,house,Residence,90.000,sale,2,,No,No,No,,No,,,No,
+ Kampstraat 2  ,8840,Staden,house,Residence,256.365,sale,3,,No,No,No,,No,,Yes,No,
+ Henry Dunantstraat 6  ,8760,Meulebeke,house,Residence,ne,sale,3,,No,No,No,,No,,Yes,No,
+ Grote Molenstraat 67  ,8930,Lauwe,house,Residence,135.000,sale,3,,No,No,No,,No,,,No,
+ Diestsestraat 253  ,3270,Scherpenheuvel-Zichem,house,Villa,1.545.000,sale,2,368 m²,Yes,No,Yes,Yes,No,,Yes,No,2016
+ Diestsestraat 253  ,3270,Scherpenheuvel-Zichem,house,Villa,1.485.000,sale,2,368 m²,Yes,No,Yes,Yes,No,,Yes,No,2016
+ De Grote Zeemeeuwen 34  ,8670,Koksijde,house,Bungalow,59.000,sale,1,22 m²,No,No,No,,No,,22 m²,No,1976
+ Werfstraat 72  ,1570,Galmaarden,house,Residence,325.000,sale,4,194 m²,Yes,Yes,No,,No,,Yes,No,On contract
+ Neerweg 84  ,8930,Rekkem,house,Residence,750.000,sale,4,303 m²,No,No,No,,No,,,No,
+ Rijmenamseweg 211  ,2820,Bonheiden,house,Residence,688.500,sale,3,440 m²,No,No,No,,No,,Yes,No,
+    ,1730,Asse,house,Residence,447.055,sale,3,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+    ,7880,Flobecq,house,Residence,287.291,sale,3,,No,No,No,,No,,,No,
+    ,2580,Beerzel,house,Residence,375.750,sale,3,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+ Boulevard St. Michel   ,1040,Etterbeek,apartment,Flat,1.650,rent,3,170 m²,Yes,No,Yes,Yes,No,,,No,
+    ,7950,Huissignies,house,Residence,295.496,sale,4,,No,No,No,,No,,,No,
+    ,1785,Merchtem,house,Residence,403.920,sale,4,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+    ,2250,Olen,house,Residence,389.750,sale,3,,No,No,No,,No,,,No,
+    ,2580,Putte,house,Residence,377.198,sale,3,,No,No,No,,No,,,No,
+    ,2580,Putte,house,Residence,362.529,sale,4,,No,No,No,,No,,,No,
+ Rue Laplace 70  ,4100,Seraing,house,Residence,229.000,sale,3,120 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Terbekenstraat 14  ,9320,Erembodegem,house,Residence,365.000,sale,4,196 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+,5060,Tamines,house,Residence,125.000,sale,2,104 m²,No,Yes,No,,No,,No,No,
+ Breemputstraat 14  ,1800,Vilvoorde,house,Residence,345.000,sale,4,280 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+,5000,Beez,house,Residence,320.000,sale,4,200 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,
+ Verkallenstraat 23  ,2400,Mol,house,Residence,369.000,sale,1,200 m²,Yes,No,Yes,,Yes,,,No,
+,6044,Roux,house,Residence,145.000,sale,3,126 m²,No,No,Yes,,No,,Yes,No,
+,8470,Moere,house,Residence,635.000,sale,2,275 m²,Yes,No,No,,No,,No,No,On contract
+ Grotesteenweg-Zuid 26  ,9052,Zwijnaarde,apartment,Flat,357.500,sale,1,82 m²,Yes,No,Yes,Yes,No,,Yes,No,2022
+,1050,Elsene,apartment,Duplex,1.190,rent,2,100 m²,No,No,No,,No,,,No,
+ van Ostade 19 1 ,1000,Brussels,apartment,Flat,1.200,rent,2,85 m²,Yes,Yes,No,,No,,,No,No
+ Jodenstraat 89 201 ,2270,Herenthout,apartment,Penthouse,775,rent,2,78 m²,Yes,No,Yes,Yes,No,,Yes,No,
+ Avenue des Nenuphars 32 1 ,1160,Oudergem,apartment,Flat,2.200,rent,3,100 m²,Yes,Yes,Yes,,No,,Yes,No,No
+ Rue Alexandre Markelbach 2 21 ,1030,Schaarbeek,apartment,Flat,1.075,rent,1,74 m²,Yes,No,Yes,,No,,Yes,No,No
+" Rue de la Gare, 5 19 ",4960,Malmedy,apartment,Flat,620,rent,2,88 m²,No,Yes,No,,No,,,No,
+ Avenue des Nénuphars 30 1 ,1160,Oudergem,apartment,Flat,1.400,rent,2,80 m²,Yes,Yes,Yes,Yes,No,,Yes,No,No
+ Dascottelei 105  ,2100,Deurne,apartment,Flat,890,rent,3,115 m²,No,Yes,Yes,Yes,No,,Yes,No,
+,5000,Namur,apartment,Flat,600,rent,2,,Yes,No,No,,Yes,,,No,
+ Arnold Maesstraat 18/11  ,3500,Hasselt,apartment,Flat,315.000,sale,2,100 m²,Yes,No,Yes,Yes,No,,Yes,No,To be agreed
+ Generaal Lemanlaan 184  ,8310,Assebroek,apartment,Flat,875,rent,3,121 m²,Yes,No,Yes,,Yes,,,No,
+ Vrijheidstraat 1 02.02 ,8670,Oostduinkerke,apartment,Flat,980,rent,3,118 m²,Yes,Yes,Yes,Yes,No,,,No,From 01/03/2021
+ Avenue Jean Roch Collon 25  ,1200,Sint-Lambrechts-Woluwe,apartment,Flat,1.600,rent,4,150 m²,No,No,Yes,,No,,Yes,No,Yes
+ Riemstraat 49 V3 ,2000,Antwerp,apartment,Flat,880,rent,1,70 m²,No,No,No,,No,,,No,
+ Oudevaartplaats 62 2.2 ,2000,Antwerp,apartment,Flat,610,rent,33 m²,33 m²,Yes,No,Yes,,No,,,No,
+ Keizerstraat 64 V2+3 ,2000,Antwerp,apartment,Flat,990,rent,1,81 m²,No,No,Yes,Yes,No,,,No,
+ sint Jansdreef 17 a  ,9000,Gent,apartment,Flat,675,rent,55 m²,55 m²,No,No,No,,No,,,No,
+ Bennesteeg 25 B 201 ,9000,Gent,apartment,Flat,1.500,rent,2,,No,No,No,,No,,,No,
+ Avenue Jottrand n°9   ,1210,Sint-Joost-ten-Node,apartment,Flat,860,rent,1,40 m²,No,No,No,,No,,2,No,
+,4920,Aywaille,apartment,Flat,265.000,sale,3,127 m²,No,No,Yes,Yes,No,,Yes,No,No
+ Rue de la Montagne 11  ,1000,Brussels,apartment,Flat,2.100,rent,3,220 m²,No,Yes,Yes,,No,,Yes,No,No
+,1040,Etterbeek,apartment,Flat,895,rent,2,90 m²,Yes,No,No,,No,,No,No,
+ Rue Jacques Raye 41  ,1030,Schaarbeek,apartment,Flat,725,rent,1,70 m²,No,No,Yes,,No,,,No,
+ Meutersweg 8 02 ,1785,Merchtem,apartment,Flat,800,rent,2,80 m²,No,No,No,No,No,,,No,Immediately
+ Kerkstraat 10 G  ,9870,Olsene,apartment,Flat,525,rent,1,70 m²,No,No,No,No,No,,,No,2006
+ Meersstraat 78 A 33 ,8790,Waregem,apartment,Flat,640,rent,2,82 m²,Yes,No,No,,No,,,No,From 01/03/2021
+ Rue Auguste Orts 17  ,1000,Brussels,apartment,Flat,1.100,rent,1,82 m²,No,No,Yes,,No,,Yes,No,No
+ Avenue Louise 391 15 ,1000,Brussels,apartment,Flat,4.400,rent,4,260 m²,Yes,Yes,Yes,Yes,No,,Yes,No,Yes
+,1180,Ukkel,apartment,Flat,1.550,rent,2,100 m²,No,Yes,Yes,Yes,No,,Yes,No,Yes
+,1020,Laken,apartment,Flat,750,rent,1,69 m²,No,No,No,,No,,2,No,
+,1000,Brussels,apartment,Flat,3.900,rent,3,320 m²,No,No,Yes,Yes,No,,Yes,No,
+ Molenstraat 44 32 ,3600,Genk,apartment,Flat,750,rent,3,121 m²,No,No,No,,No,,,No,
+ Kollegeplein 20 7 ,8530,Harelbeke,apartment,Flat,680,rent,2,86 m²,No,No,Yes,Yes,No,,,No,
+,1050,Elsene,apartment,Flat,1.350,rent,2,102 m²,Yes,Yes,No,,No,,No,No,No
+ Dehaernestraat 22 1A ,8900,Ieper,apartment,Flat,550,rent,2,86 m²,No,No,No,,No,,,No,
+,4920,Aywaille,apartment,Flat,270.000,sale,2,101 m²,No,No,Yes,Yes,No,,Yes,No,No
+,4920,Aywaille,apartment,Flat,225.000,sale,2,85 m²,No,No,Yes,Yes,No,,Yes,No,No
+,4920,Aywaille,apartment,Flat,260.000,sale,2,84 m²,No,No,Yes,Yes,No,,Yes,No,No
+,4920,Aywaille,apartment,Flat,218.000,sale,2,85 m²,No,No,Yes,Yes,No,,Yes,No,No
+,4920,Aywaille,apartment,Flat,218.000,sale,2,85 m²,No,No,Yes,Yes,No,,Yes,No,No
+,4920,Aywaille,apartment,Flat,225.000,sale,2,84 m²,No,No,Yes,Yes,No,,Yes,No,No
+,4920,Aywaille,apartment,Flat,260.000,sale,2,107 m²,No,No,Yes,Yes,No,,Yes,No,No
+ Baron Ruzettelaan 411 2-02 ,8310,Assebroek,apartment,Flat,795,rent,2,80 m²,Yes,No,No,,No,,,No,Immediately
+ Sint-Michielsstraat 15 2 ,8800,Roeselare,apartment,Flat,650,rent,2,109 m²,No,No,Yes,,No,,,No,
+,7330,Saint-Ghislain,apartment,Flat,650,rent,2,80 m²,No,No,No,,No,,No,No,
+,5590,Ciney,apartment,Flat,500,rent,1,45 m²,Yes,No,Yes,Yes,No,,,No,
+,1030,Schaarbeek,apartment,Flat,800,rent,2,90 m²,Yes,No,No,,No,,,No,
+,1060,Sint-Gillis,apartment,Flat,2.500,rent,3,150 m²,Yes,No,Yes,Yes,No,,Yes,No,
+,1060,Sint-Gillis,apartment,Flat,2.700,rent,3,150 m²,Yes,No,Yes,Yes,No,,Yes,No,
+ Rue Henri Bles 140 31 ,5000,Namur,apartment,Flat,600,rent,1,68 m²,No,Yes,Yes,Yes,No,,Yes,No,No
+ Rue Alexandre Markelbach 2 45 ,1030,Schaarbeek,apartment,Flat,1.225,rent,2,75 m²,Yes,No,No,,No,,,No,No
+ Kettermuitstraat 39 Bus 1   ,9100,Sint-Niklaas,apartment,Flat,600,rent,2,71 m²,No,No,No,,No,,,No,
+,5300,Andenne,apartment,Flat,710,rent,2,103 m²,Yes,Yes,No,,No,,,No,
+ Goedendaglaan 51 21 ,8500,Kortrijk,apartment,Flat,675,rent,2,110 m²,Yes,No,No,No,No,,,No,2010
+ Moorsemsestraat 6 0003 ,3128,Baal,apartment,Flat,850,rent,2,80 m²,No,No,Yes,Yes,No,,,No,
+ Rijksweg 146/1  ,3630,Maasmechelen,apartment,Flat,700,rent,2,,No,No,No,,No,,,No,
+ Parkstraat 44  ,3000,Leuven,apartment,Flat,825,rent,2,75 m²,Yes,No,Yes,Yes,No,,Yes,No,1964
+,1180,Ukkel,apartment,Ground,1.750,rent,2,151 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+ Roodebeeklaan 78  ,1030,Schaarbeek,apartment,Flat,675,rent,32 m²,32 m²,Yes,No,Yes,Yes,No,,Yes,No,2007
+ Boulevard Joseph Tirou 141  ,6000,Charleroi,apartment,Flat,1.150,rent,3,150 m²,Yes,No,No,,No,,,No,
+ Rue des Pigeons 7   ,1000,Brussels,apartment,Flat,800,rent,1,55 m²,No,No,No,,No,,2,No,
+ Rue de la Rochette 197  ,4400,Flémalle,apartment,Flat,750,rent,3,136 m²,No,Yes,Yes,,No,,Yes,No,
+ Rue de la Rochette 197  ,4400,Flémalle,apartment,Flat,800,rent,2,107 m²,No,Yes,Yes,,No,,Yes,No,
+ Rue Rodenbach 145  ,1190,Vorst,apartment,Flat,1.250,rent,3,90 m²,Yes,Yes,Yes,Yes,No,,Yes,No,No
+,1601,Ruisbroek,apartment,Flat,600,rent,45 m²,45 m²,No,No,No,,Yes,Yes,,No,
+ Vaartstraat 58A  ,9270,Kalken,house,Residence,700,rent,3,189 m²,Yes,No,Yes,,No,,,No,
+ Bruggestraat 124 0.3 ,8770,Ingelmunster,apartment,Flat,495,rent,1,,Yes,No,No,,No,,No,No,
+ Stijn Streuvelslaan 2  ,2630,Aartselaar,apartment,Flat,795,rent,2,110 m²,Yes,No,Yes,Yes,No,,Yes,No,1978
+ Nijverheidstraat 54  ,8400,Oostende,house,Residence,250.000,sale,3,213 m²,Yes,No,No,,No,,No,No,On contract
+ Kiliaanstraat 47  ,2570,Duffel,house,Master,284.000,sale,3,,Yes,No,No,,Yes,Yes,Yes,No,1954
+ Oude Poperingestraat 2  ,8970,Poperinge,house,Villa,695.000,sale,5,341 m²,No,No,No,,No,,,No,2006
+,8430,Middelkerke,house,Residence,215.000,sale,2,190 m²,Yes,No,No,No,No,,No,No,
+ rue de Philippeville 182  ,6010,Couillet,house,Residence,119.000,sale,3,120 m²,Yes,No,No,,No,No,No,No,Yes
+ Molenbergstraat 98  ,9190,Stekene,house,Residence,270.000,sale,3,133 m²,Yes,Yes,No,,Yes,Yes,Yes,No,1971
+ Tuyaertsstraat 7  ,2850,Boom,house,Master,845.000,sale,5,391 m²,Yes,No,No,,No,No,,No,
+ Paul Ferrardstraat ZN Lot 8 ,8550,Zwevegem,house,Residence,255.100,sale,3,156 m²,No,No,Yes,,Yes,,,No,
+ Rue ernest solvay 217  ,4000,Liege,house,Residence,259.000,sale,3,239 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+,6044,Roux,house,Residence,185.000,sale,3,160 m²,Yes,No,Yes,,Yes,Yes,,No,
+ Barakkenstraat 35  ,8930,Menen,house,Residence,75.000,sale,2,95 m²,No,No,No,,No,,No,No,
+ Molenmeersenstraat 23  ,8940,Wervik,house,Residence,179.000,sale,3,160 m²,No,Yes,No,,No,,No,No,
+,9840,Zevergem,house,Residence,540.000,sale,4,,No,No,No,,No,,,No,
+ Nijverheidsweg 12  ,3945,Ham,house,Residence,760,rent,4,116 m²,No,Yes,No,,No,,No,No,No
+,6150,Anderlues,house,Residence,950,rent,2,138 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+ François Bernardstraat 66  ,9000,Gent,house,Residence,970,rent,3,100 m²,No,No,Yes,Yes,No,,Yes,No,
+,1160,Oudergem,house,Residence,1.500,rent,3,130 m²,Yes,Yes,Yes,,No,,Yes,No,
+,1150,Sint-Pieters-Woluwe,house,Residence,3.400,rent,4,250 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Rue de l'Abbaye 3  ,4880,Aubel,house,Residence,910,rent,3,120 m²,No,No,Yes,,Yes,Yes,Yes,No,No
+ Everzwijnhoekstraat 10  ,8980,Geluveld,house,Residence,650,rent,3,216 m²,No,Yes,Yes,,Yes,,,No,
+ Rue Perlieue 17  ,6880,Orgeo,house,Residence,675,rent,3,211 m²,No,No,Yes,,Yes,,,No,
+ Patrijsstraat 9  ,8020,Oostkamp,house,Residence,1.000,rent,3,117 m²,Yes,No,Yes,,Yes,Yes,,No,
+ Cartonstraat 45  ,8900,Ieper,house,Residence,690,rent,2,,No,No,Yes,Yes,No,,,No,
+ Bloemkoolstraat 21  ,8800,Roeselare,house,Residence,790,rent,3,150 m²,No,No,No,,No,,Yes,No,2020
+ des Trois Escabelles 10  ,7130,Binche,house,Residence,670,rent,2,103 m²,Yes,No,No,,No,,Yes,No,
+ Jules Missinnelaan 34  ,8810,Lichtervelde,house,Residence,850,rent,3,,No,No,No,,No,,1,No,
+ Kalkhoevestraat 63  ,8790,Waregem,house,Villa,950,rent,3,,No,No,No,,No,,,No,
+ Groenestraat 61  ,8800,Roeselare,house,Residence,650,rent,3,128 m²,Yes,No,No,,No,,,No,
+ Watertorenstraat 68  ,3950,Bocholt,house,Residence,820,rent,3,180 m²,No,No,No,,No,,,No,2020
+ Kloosterstraat 4  ,9750,Zingem,house,Residence,595,rent,2,88 m²,No,No,Yes,Yes,No,,Yes,No,
+ Rue de l'Auflette 111  ,7033,Cuesmes,house,Residence,630,rent,3,110 m²,Yes,No,No,,No,,,No,
+,7012,Flénu,house,Residence,725,rent,3,150 m²,No,No,Yes,Yes,No,,Yes,No,
+ Rue des Marchandises 13 0 ,5580,Rochefort,house,Residence,640,rent,3,180 m²,Yes,No,Yes,,Yes,,,No,
+,1180,Ukkel,house,Residence,1.490,rent,3,85 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+,1180,Ukkel,house,Villa,7.500,rent,6,420 m²,Yes,No,No,,No,,Yes,No,From 01/12/2020
+,1190,Vorst,house,Residence,2.550,rent,4,213 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Keibergstraat 40  ,8820,Torhout,house,Residence,850,rent,4,,Yes,Yes,No,,No,,735 m²,No,
+ Kwekersstraat 34  ,8000,Brugge,house,Residence,800,rent,2,100 m²,No,No,No,,No,,Yes,No,
+,1150,Sint-Pieters-Woluwe,house,Residence,2.950,rent,4,200 m²,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+,1050,Elsene,house,Residence,5.000,rent,6,475 m²,No,No,Yes,Yes,Yes,Yes,Yes,No,
+ Rue Dautzenberg 74  ,1050,Elsene,house,Residence,600,rent,1,12 m²,No,No,Yes,,No,,Yes,No,
+ Neremstraat 240 B13 ,3700,Tongeren,apartment,Loft,253.177,sale,2,146 m²,No,Yes,Yes,Yes,No,,Yes,No,
+,1180,Ukkel,apartment,Flat,380.000,sale,2,,Yes,No,Yes,Yes,Yes,Yes,,No,On contract
+,4100,Boncelles,apartment,Penthouse,301.000,sale,2,94 m²,Yes,No,Yes,Yes,No,,,No,
+,4100,Boncelles,apartment,Penthouse,301.000,sale,2,94 m²,Yes,No,Yes,Yes,No,,,No,
+ Leopold Deboeckstraat 3  ,1500,Halle,apartment,Flat,309.000,sale,2,99 m²,Yes,No,No,No,No,,,No,2019
+ Avenue Charles d'Orjo de Marchovelette 5  ,1160,Oudergem,apartment,Flat,630.000,sale,3,160 m²,No,Yes,Yes,Yes,No,,Yes,No,No
+ Rue du Commerce (CH) 1  ,6000,Charleroi,apartment,Flat,110.000,sale,2,,Yes,No,No,,No,,,No,On contract
+ Square Georges Marlow 1  ,1180,Ukkel,apartment,Flat,315.000,sale,2,86 m²,Yes,No,No,,No,,,No,1975
+ Oscar van Kesbeeckstraat 2  ,2800,Mechelen,apartment,Flat,195.000,sale,2,99 m²,No,No,No,,No,,2,No,
+,2018,Antwerp,apartment,Flat,965.000,sale,3,290 m²,Yes,No,No,,No,,,No,On contract
+ Rue des Chasseurs Ardennais 5 101 ,6880,Bertrix,apartment,Flat,235.000,sale,2,103 m²,Yes,No,Yes,Yes,No,,,No,
+ stationplein 25  ,9470,Denderleeuw,apartment,Loft,220.000,sale,2,78 m²,Yes,No,No,,No,,,No,
+ Scheersmolendreef 21 - 23  ,1840,Londerzeel,apartment,Flat,297.500,sale,2,97 m²,No,No,No,,No,,,No,
+,9690,Kluisbergen,apartment,Flat,230.000,sale,2,98 m²,Yes,No,Yes,Yes,No,,Yes,No,
+ Stationsstraat 72  ,9690,Kluisbergen,apartment,Flat,260.000,sale,2,117 m²,No,No,Yes,Yes,Yes,Yes,,No,
+ Stationsstraat 72  ,9690,Kluisbergen,apartment,Flat,270.000,sale,3,103 m²,No,No,Yes,Yes,No,,,No,
+ Stationsstraat 72  ,9690,Kluisbergen,apartment,Flat,277.000,sale,3,109 m²,No,No,Yes,Yes,No,,,No,
+ Stationsstraat 72  ,9690,Kluisbergen,apartment,Flat,275.000,sale,3,108 m²,Yes,No,Yes,Yes,No,,,No,
+ Stationsstraat 72  ,9690,Kluisbergen,apartment,Flat,290.000,sale,3,99 m²,No,No,Yes,Yes,No,,,No,
+,1000,Brussels,apartment,Flat,485.000,sale,2,120 m²,Yes,No,Yes,Yes,No,,,No,No
+ Lange Lozanastraat 233 3G ,2018,Antwerp,apartment,Flat,97.500,sale,1,50 m²,No,No,Yes,,No,,Yes,No,No
+ Rue de la Rochette 197  ,4400,Flémalle,apartment,Duplex,850,rent,2,118 m²,No,Yes,Yes,Yes,No,,Yes,No,
+ Middelstraat 2  ,8680,Koekelare,house,Residence,293.710,sale,3,,No,No,No,,No,,Yes,No,
+,3530,Houthalen-Helchteren,house,Residence,475.000,sale,4,,No,Yes,No,,No,,No,No,No
+ Rue Maximilien Luce 96  ,6010,Couillet,house,Residence,169.000,sale,3,160 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Kasteelstraat 15  ,1730,Mollem,house,Residence,340.000,sale,2,128 m²,Yes,Yes,No,,No,,1108 m²,No,On contract
+ Schoolstraat 72  ,1745,Opwijk,house,Residence,599.000,sale,4,312 m²,No,No,No,,No,,52 m,No,1986
+ Mandekensstraat 112  ,9200,Baasrode,house,Residence,349.000,sale,3,140 m²,Yes,Yes,No,,No,,70 m²,No,To be agreed
+ Langeveldstraat 71  ,1745,Opwijk,house,Residence,438.000,sale,2,185 m²,Yes,No,No,,No,,22 m,No,To be agreed
+ Steenweg op Dendermonde 20  ,1745,Opwijk,house,Villa,599.000,sale,3,173 m²,Yes,Yes,No,,No,,163 m²,No,On contract
+ Steenweg 156  ,1745,Opwijk,house,Residence,425.000,sale,3,220 m²,Yes,No,No,,No,,152 m²,No,To be agreed
+ Schoolstraat 72  ,1745,Opwijk,house,Mixed,599.000,sale,4,312 m²,No,No,No,,No,,52 m,No,1986
+ Allée des Hêtres 13  ,6280,Gerpinnes,house,Villa,299.000,sale,3,212 m²,No,Yes,Yes,Yes,No,,Yes,No,No
+ Locomotiefstraat 46  ,2800,Mechelen,house,Residence,235.000,sale,4,102 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+ Rue Eugene Gilles 42  ,6210,Les Bons Villers,house,Residence,349.900,sale,4,270 m²,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+ Izegemseaardeweg 57  ,8800,Roeselare,house,Residence,281.348,sale,3,,No,No,No,,No,,,No,2021
+,8000,Brugge,house,Villa,ne,sale,3,325 m²,No,No,No,,No,,,No,
+ Kardinaal Cardijnlaan 7  ,8730,Beernem,house,Residence,289.000,sale,3,,No,No,Yes,Yes,No,,Yes,No,1982
+,6929,Haut-Fays,house,Residence,550,rent,3,130 m²,Yes,No,No,,Yes,,,No,
+ Wagenmakersstraat 34 2 ,8310,Sint-Kruis,apartment,Flat,219.500,sale,2,91 m²,No,Yes,Yes,Yes,No,,Yes,No,
+,7170,Bellecourt,house,Residence,310.000,sale,3,110 m²,Yes,Yes,No,,Yes,,Yes,No,On contract
+ Delacenseriestraat 22 0102 ,8420,Wenduine,apartment,Flat,675,rent,2,90 m²,Yes,No,No,No,No,,,No,Immediately
+ Mechelsesteenweg 520 c 0.2 ,1800,Vilvoorde,apartment,Flat,750,rent,,,No,No,No,,No,,,No,
+ Ettingen 13  ,9820,Merelbeke,apartment,Flat,222.725,sale,1,70 m²,No,No,Yes,Yes,No,,Yes,No,
+ Groendreef 54  ,9000,Gent,apartment,Flat,185.000,sale,1,45 m²,Yes,No,No,,No,,,No,
+ Rue Sainte-Anne 64  ,1420,Braine-l'Alleud,apartment,Flat,250.000,sale,3,154 m²,Yes,No,Yes,Yes,No,,Yes,No,1900
+ Warellesgoed 10  ,8800,Rumbeke,apartment,Flat,ne,sale,2,123 m²,No,No,Yes,Yes,No,,Yes,No,2020
+ Hogeweg 165  ,9000,Gent,apartment,Flat,259.523,sale,1,71 m²,No,No,No,,No,,4,No,2021
+ Stationssteenweg 1D  ,2560,Kessel,apartment,Flat,215.000,sale,2,82 m²,Yes,No,No,,No,,Yes,No,1974
+ Albert I-promenade 25  ,8400,Oostende,apartment,Flat,575.000,sale,2,83 m²,No,No,Yes,Yes,No,,Yes,No,
+ Van Monsstraat 1 3V ,8370,Blankenberge,apartment,Flat,155.000,sale,2,90 m²,No,No,No,,No,,,No,
+,7340,Pâturages,house,Residence,550,rent,2,,Yes,No,Yes,,No,,Yes,No,
+,1180,Ukkel,house,Villa,3.900,rent,5,400 m²,No,No,Yes,Yes,No,,Yes,No,
+ Passendalestraat 1  ,8980,Zonnebeke,house,Residence,2.500,rent,3,,No,No,No,,No,,,No,1961
+,5000,Namur,house,Residence,680,rent,2,80 m²,No,No,Yes,,No,,Yes,No,
+ Rue des Bruyeres 110 b ,7034,Obourg,house,Residence,1.600,rent,4,180 m²,No,Yes,Yes,,No,,Yes,No,No
+ Eksterdreef 2  ,3140,Keerbergen,house,Villa,1.800,rent,4,250 m²,No,No,No,,No,,Yes,No,2019
+ Gasmeterstraat 24 B 2 ,9990,Maldegem,house,Residence,700,rent,3,,Yes,No,No,,No,,No,No,
+ Ankerstraat   ,1120,Neder-Over-Heembeek,apartment,Flat,245.900,sale,2,85 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+ Ankerstraat   ,1120,Neder-Over-Heembeek,apartment,Flat,235.900,sale,2,85 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+ Ankerstraat   ,1120,Neder-Over-Heembeek,apartment,Flat,245.900,sale,2,86 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+,,,apartment,Flat,ne,sale,,,No,No,No,,No,,,No,
+Address,Post Code,City,Type of property,Property Subtype,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Terrace,Terrace Area,Garden,Garden Area,Number of facades,Swimming pool,State of the building
+ Gentsesteenweg 58  ,8530,Harelbeke,house,Residence,185.000,sale,2,133 m²,No,No,No,,No,,,No,
+ Veldstraat 22  ,8020,Oostkamp,house,Residence,950,rent,4,,Yes,No,No,,No,,No,No,From 01/04/2021
+ J. en M. Sabbestraat 131  ,8930,Menen,house,Residence,242.000,sale,5,216 m²,No,No,No,,No,,No,No,On contract
+ Bremstraat 37  ,2340,Beerse,house,Residence,250.000,sale,3,119 m²,No,No,Yes,,No,,Yes,No,No
+ Bulskampstraat 66  ,8630,Veurne,house,Residence,229.000,sale,4,166 m²,No,No,Yes,,Yes,,,No,
+ Rapaertstraat   ,8020,Hertsberge,house,Residence,378.500,sale,5,210 m²,Yes,No,No,,Yes,,,No,2021
+,1420,Braine-l'Alleud,house,Villa,2.850.000,sale,6,900 m²,Yes,No,No,,No,,No,No,1993
+ Sint-Andrieshof 46  ,8970,Poperinge,house,Villa,695.000,sale,6,329 m²,No,No,No,,No,,,No,2006
+,5100,Jambes,house,Residence,219.000,sale,2,90 m²,Yes,Yes,Yes,Yes,No,,,No,On contract
+ Hoogplaatsstraat 49  ,8510,Kooigem,house,Residence,330.000,sale,3,,No,No,No,,No,,,No,2013
+ Kardinaal Cardijnstraat 10  ,2840,Rumst,house,Mixed,539.000,sale,5,185 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+ Schaperijstraat 51  ,9900,Eeklo,house,Residence,115.000,sale,2,115 m²,Yes,No,No,,Yes,Yes,,No,Immediately
+,6040,Jumet,house,Villa,330.000,sale,3,,No,Yes,Yes,,No,,Yes,Yes,
+ Rue des Bouillons 81  ,6060,Gilly,house,Residence,259.000,sale,3,135 m²,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+ Rue de Hollogne 141  ,4101,Jemeppe,house,Residence,120.000,sale,4,147 m²,No,No,Yes,,No,,Yes,No,
+ Verwerijstraat 16  ,8800,Roeselare,house,Residence,169.000,sale,5,,No,No,No,,No,,No,No,
+ Roeselaarsestraat 47  ,8501,Heule,house,Residence,179.000,sale,2,106 m²,No,No,No,,No,,,No,
+ Albert I laan 68 102 ,8620,Nieuwpoort,apartment,Flat,490.000,sale,2,97 m²,No,No,Yes,Yes,No,,Yes,No,2019
+,,,house,Residence,ne,rent,,,No,No,No,,No,,,No,
+ Sint-Pauluslaan 81  ,3080,Tervuren,house,Villa,2.100,rent,3,170 m²,No,No,Yes,Yes,Yes,Yes,Yes,No,
+ Vlietehof 1  ,8531,Hulste,house,Residence,950,rent,3,153 m²,Yes,Yes,No,No,No,No,No,No,2018
+,6220,Fleurus,house,Residence,495,rent,2,,Yes,No,Yes,,No,,Yes,No,
+ Oogstweg 1  ,8610,Kortemark,house,Residence,795,rent,3,,Yes,Yes,No,,No,,No,No,
+ Stationssteenweg 1D  ,2560,Kessel,apartment,Flat,215.000,sale,2,82 m²,Yes,No,No,,No,,Yes,No,1974
+,5020,Vedrin,house,Residence,1.025,rent,3,120 m²,Yes,No,Yes,Yes,No,,Yes,No,No
+ Stationsstraat 67  ,8540,Deerlijk,house,Residence,590,rent,2,125 m²,No,No,Yes,Yes,No,,Yes,No,

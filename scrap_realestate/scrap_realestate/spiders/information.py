@@ -18,7 +18,7 @@ class InformationSpider(scrapy.Spider):
     This is generated automatically when runing Scrapy command at the very beginning.
     Example base on this senario:
     
-    scrapy startproject sceap_realestate
+    scrapy startproject scrap_realestate
     scrapy genspider information immo.vlan.be
     """
 
@@ -53,6 +53,7 @@ class InformationSpider(scrapy.Spider):
             elif link == rent_apartment:
                 type_of_property = "apartment"
                 type_of_sale = "rent"
+                
             yield scrapy.Request(url=link, callback=self.parse, meta={'property_type': type_of_property, 'sale_type': type_of_sale},
             headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36"})
       
@@ -117,10 +118,13 @@ class InformationSpider(scrapy.Spider):
             except:
                 data_gathered = None
             
-            for info_match, data_match in zip(left,right):
-                if info_match == search:
+            if search in left:
+                for info_match, data_match in zip(left,right):
                     data_gathered = data_match
-            
+                
+            else:
+                data_gathered = None
+
             return data_gathered
         
         def yes_no(result):
