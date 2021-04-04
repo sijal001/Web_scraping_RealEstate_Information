@@ -5,7 +5,7 @@ Four main url link has been used to make the scraping data easier.
 
 Certain changes has been done in the setting.py file 
 1. DOWNLOAD_DELAY = 5               ----- This help delay the program by 5 seconds.
-2. FEED_EXPORT_ENCODING = 'utf-8'   ----- This help scraped data be in UTF-O standard encording this makes scraped data clean and easy to understand.
+2. FEED_EXPORT_ENCODING = 'utf-8'   ----- This help scraped data be in UTF-8 standard encording this makes scraped data clean and easy to understand.
 3. HTTPCACHE_ENABLED = True         ----- This will not hit the server for requests already done tests will run much faster and the website will save resources.
 """
 
